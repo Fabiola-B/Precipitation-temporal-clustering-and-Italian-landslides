@@ -1,0 +1,1007 @@
+Region,Province,Municipality,Location,Day,Month,Year,Type,Longitude,Latitude,Number_of_events,Group_ID,Extreme_event,Cluster_15,Cluster_30,Cluster_90,None
+Piemonte,Torino,Bardonecchia,Millaures,5,5,1973,Sliding,6.72059,45.07383,1,1,True,False,False,False,False
+Piemonte,Torino,Carema,Carema,8,4,1986,Fall,7.81366,45.58513,1,2,True,False,False,False,False
+Piemonte,Torino,Cesana Torinese,Cesana - Claviere (tra le due località lungo la SS n. 24 del Monginevro),16,8,1998,Debris flow,6.76311,44.94608,1,3,False,False,False,False,True
+Piemonte,Torino,Chianocco,Chianocco - Lungo il corso del Torrente Pianfè,29,8,1977,Debris flow,7.16755,45.16572,1,5,True,True,True,True,False
+Piemonte,Torino,Exilles,Combarà - Lungo la SS n. 24 del Monginevro al km 66+100,26,3,1980,Fall,6.94608,45.10484,1,7,True,False,False,False,False
+Piemonte,Torino,Exilles,Exilles - Lungo la SS n. 24  a 1 km dall'abitato,19,3,1969,Fall,6.94886,45.10667,1,8,True,False,False,False,False
+Piemonte,Torino,Exilles,Morliere (Cels),14,2,1984,Fall,6.94421,45.1078,1,9,False,False,True,False,False
+Piemonte,Torino,Exilles,Forte Sapè - In destra orografica della Dora Riparia a  quota 1300 m,21,6,1997,Fall,6.91973,45.08197,1,10,True,False,False,False,False
+Piemonte,Torino,Front,Front,23,10,1963,Flow,7.6609,45.2811,1,11,False,False,False,False,True
+Piemonte,Torino,Givoletto,Givoletto,24,6,1959,Flow,7.49901,45.1616,1,12,True,False,False,False,False
+Piemonte,Torino,Gravere,Gravere - Lungo la linea ferroviaria Torino-Modane,18,2,1974,Sliding,7.0105,45.13365,2,6,True,False,False,False,False
+Piemonte,Torino,Locana,Rosone,10,4,1970,Fall,7416,45.4354,1,13,True,False,False,False,False
+Piemonte,Torino,Moncalieri,Moncalieri - Via Segantini,13,3,1972,Sliding,7.69524,45.00589,1,14,True,True,True,True,False
+Piemonte,Torino,Parella,Parella (Comune di),5,11,1994,Flow,7.79101,45.43059,1,15,True,False,False,False,False
+Piemonte,Torino,Perrero,Chiabrano - Zona ad ovest dell'abitato,20,5,1977,Flow,7.09971,44.94767,8,4,True,False,False,False,False
+Piemonte,Torino,Perrero,Perrero - Zona periferica dell'abitato,20,3,1977,Debris flow,7.11373,44.94053,1,16,True,False,False,False,False
+Piemonte,Torino,Pessinetto,Pessinetto,2,10,1993,Sliding,7.40635,45.29023,1,17,True,True,True,True,False
+Piemonte,Torino,Prali,Prali (Comune di),20,5,1977,Sliding,7.05793,44.90597,8,4,True,False,False,False,False
+Piemonte,Torino,Prali,Crosetto - Lungo la valle in prossimità dell'abitato,20,5,1977,Debris flow,7.08027,44.92724,8,4,True,False,False,False,False
+Piemonte,Torino,Pramollo,Turnim,18,12,1960,Flow,7.19952,44.90713,1,18,True,False,False,False,False
+Piemonte,Torino,Quincinetto,Quincinetto - Lungo la A5 all'altezza del Rio Piasco,24,9,1981,Debris flow,7.81127,45.56357,8,19,True,False,False,True,False
+Piemonte,Torino,Salbertrand,Casses,15,6,1957,Sliding,6.85486,45.09986,1,20,True,False,True,False,False
+Piemonte,Torino,Sant'Ambrogio di Torino,Sant'Ambrogio di Torino - Lungo la SP per la Sacra di San Michele,13,4,1998,Fall,7.35349,45.09967,1,21,True,False,False,False,False
+Piemonte,Torino,Sestriere,Comba Cassen,9,6,1978,Debris flow,6.88562,44.94871,2,22,False,False,False,False,True
+Piemonte,Torino,Tavagnasco,Tavagnasco - Lungo la linea ferroviaria in prossimità dell'abitato,27,5,1951,Debris flow,7.82335,45.55226,1,23,True,False,False,False,False
+Piemonte,Torino,Trausella,Trausella,2,5,1977,Flow,7.76457,45.49142,1,24,True,False,False,False,False
+Piemonte,Vercelli,Borgosesia,Agnona,4,11,1968,Flow,8.25784,45.72748,1,25,True,False,False,True,False
+Piemonte,Vercelli,Borgosesia,Cascine,10,11,1951,Flow,8.25881,45.71736,4,26,True,True,False,False,False
+Piemonte,Vercelli,Civiasco,Peracino,11,11,1951,Complex,8.29018,45.80938,4,26,True,False,False,False,False
+Piemonte,Vercelli,Quarona,Quarona - Lungo la SP Cavaglia-Valmaggiore,8,5,1996,Fall,8.28384,45.76903,1,28,True,False,False,False,False
+Piemonte,Vercelli,Varallo,Prati di Cervarolo - Lungo la mulattiera,4,1,1972,Fall,8.25344,45.84575,1,29,True,False,False,False,False
+Piemonte,Vercelli,Varallo,Varallo - Via Garibaldi,13,11,1991,Fall,8.25785,45.81691,1,30,True,False,False,False,False
+Piemonte,Vercelli,Varallo,Varallo - Via Oberdan,5,11,1994,Flow,8.25468,45.81849,2,31,True,True,False,True,False
+Piemonte,Vercelli,Vocca,Chiesa - Lungo la SS n. 299 della Valsesia,16,5,1998,Fall,8.18859,45.83217,1,34,False,False,False,False,True
+Piemonte,Novara,Pella,Ronco,28,3,1995,Fall,8.38127,45.82709,1,35,False,False,False,False,True
+Piemonte,Novara,Pella,Pella - Lungo la strada per Ronco,5,9,1998,Fall,8.38382,45.82013,4,32,True,False,False,False,False
+Piemonte,Novara,Suno,Imperio,28,5,1998,Flow,8.55829,45.6263,3,36,True,False,False,False,False
+Piemonte,Cuneo,Acceglio,Villaro - Pontemaira (tra le due località),13,6,1957,Fall,6.97237,44.47731,1,37,True,False,True,True,False
+Piemonte,Cuneo,Bergolo,Blangera,4,3,1978,Sliding,8.17328,44.55612,1,40,True,False,False,False,False
+Piemonte,Cuneo,Castelletto Uzzone,Castelletto Uzzone,25,8,1967,Flow,8.18922,44.4937,1,41,False,False,False,False,True
+Piemonte,Cuneo,Castellino Tanaro,Castellino Tanaro - Presso la stazione ferroviaria,7,1,1973,Sliding,7.97688,44.41716,1,42,True,True,False,False,False
+Piemonte,Cuneo,Castellino Tanaro,Castellino Tanaro - Presso la stazione ferroviaria,23,1,1973,Sliding,7.97688,44.41716,1,43,True,False,False,False,False
+Piemonte,Cuneo,Castelmagno,Castelmagno - Lungo la strada  per Chiappi e Chiotti,21,5,1977,Fall,7.19471,44.39702,1,44,True,False,False,False,False
+Piemonte,Cuneo,Ceva,Ceva - Rocca del Forte lungo la linea ferroviaria,19,7,1967,Fall,8.03652,44.39014,1,45,False,False,False,False,True
+Piemonte,Cuneo,Entracque,Valle Monte Colombo,29,8,1992,Debris flow,7.40602,44.15544,1,47,False,False,False,True,False
+Piemonte,Cuneo,Envie,Envie,24,9,1993,Debris flow,7.37349,44.68239,1,48,True,False,False,False,False
+Piemonte,Cuneo,Gottasecca,Cosana,18,4,1962,Sliding,8.19047,44.44911,1,49,True,False,False,False,False
+Piemonte,Cuneo,Gottasecca,Piano,4,11,1968,Sliding,8.17076,44.46664,1,50,True,False,False,False,False
+Piemonte,Cuneo,Gottasecca,Valle,12,11,1951,Flow,8.19816,44.45702,5,51,True,True,True,False,False
+Piemonte,Cuneo,Rodello,Rodello - Lungo la sponda destra del Rio Mazzoni presso l'abitato,18,2,1974,Sliding,8.06092,44.63035,3,46,True,False,False,False,False
+Piemonte,Cuneo,Santa Vittoria d'Alba,Santa Vittoria d'Alba - Lungo la linea ferroviaria Cavalermaggiore-Alessandria,23,2,1977,Flow,7.93243,44.69485,1,53,False,False,False,False,True
+Piemonte,Cuneo,Santa Vittoria d'Alba,Santa Vittoria d'Alba - Lungo la linea ferroviaria Cavalermaggiore-Alessandria,18,5,1977,Flow,7.93243,44.69485,1,54,True,False,True,True,False
+Piemonte,Cuneo,Santa Vittoria d'Alba,Santa Vittoria d'Alba Stazione - Corretti (tra le due località lungo la linea ferroviaria),24,5,1978,Flow,7.91698,44.69701,2,55,True,False,False,True,False
+Piemonte,Cuneo,Torre Mondovì,Torre Mondovì (Comune di),5,11,1994,Debris flow,7.90063,44.35349,2,56,True,True,False,False,False
+Piemonte,Cuneo,Valdieri,Tetti Niot - A monte di,13,6,2000,Debris flow,7.28626,44.23318,42,38,True,True,False,True,False
+Piemonte,Asti,Asti,Monferrato (zona a sud di Asti),11,3,1972,Sliding,8.23536,44.86553,2,39,True,True,True,True,False
+Piemonte,Asti,Asti,Boana - Bivio San Marzanotto (tra le due località lungo la SP),26,1,1997,Fall,8.20963,44.86829,1,57,False,False,False,False,True
+Piemonte,Asti,Castelnuovo Belbo - Incisa Scapaccino,Castelnuovo Belbo - Incisa Scapaccino (tra le due località all'imbocco della galleria ferroviaria),13,3,1980,Flow,8.40292,44.79858,1,58,True,False,False,False,False
+Piemonte,Asti,Castel Rocchero,Castel Rocchero,19,2,1992,Sliding,8.41708,44.72045,1,59,False,False,False,False,True
+Piemonte,Asti,Castel Rocchero,Castel Rocchero,19,2,1972,Sliding,8.41708,44.72045,4,52,True,True,True,True,False
+Piemonte,Asti,Cessole,Le Rocche di Cessole - Lungo la SS n. 29,9,3,1972,Fall,8.24691,44.64717,2,60,True,True,True,True,False
+Piemonte,Asti,Montabone,Montabone,27,8,1968,Fall,8.39301,44.69933,1,61,True,False,False,False,False
+Piemonte,Asti,Montaldo Scarampi,Montaldo Scarampi,23,3,1965,Complex,8.25981,44.8303,1,62,False,False,False,False,True
+Piemonte,Asti,Vinchio,Vinchio - Lungo la SP per Vaglio Serra,18,2,1972,Debris flow,8.32976,44.80691,4,52,True,True,True,True,False
+Piemonte,Alessandria,Acqui Terme,Acqui Terme - Lungo il corso del Torrente Caliogna,20,3,1977,Sliding,8.48099,44.68715,1,64,True,False,False,False,False
+Piemonte,Alessandria,Cabella Ligure,Montaldo di Cosola,11,11,1976,Debris flow,9.17957,44.67154,1,65,True,True,True,True,False
+Piemonte,Alessandria,Cantalupo Ligure,Cantalupo Ligure - Lungo la SP Val Borbera poco dopo l'abitato,11,2,1977,Flow,9.04856,44.71634,1,66,False,False,False,False,True
+Piemonte,Alessandria,Cantalupo Ligure,Costa,8,9,1995,Fall,9.03573,44.7451,1,67,True,False,False,False,False
+Piemonte,Alessandria,Cremolino,San Biagio,15,10,1966,Sliding,8.54794,44.63039,2,68,True,True,True,True,False
+Piemonte,Alessandria,Lerma,Mond'Ovile,19,3,1978,Fall,8.73601,44.60084,1,69,False,False,False,False,True
+Piemonte,Alessandria,Melazzo,Melazzo,7,10,1977,Flow,8.42732,44.64595,17,63,True,False,False,False,False
+Piemonte,Alessandria,Molare,Le Binelle,12,11,1951,Fall,8.61157,44.58241,5,51,True,True,True,False,False
+Piemonte,Alessandria,Mornese,Mornese - Lungo la strada per Bosio,7,10,1977,Debris flow,8.76833,44.64691,17,63,True,False,False,False,False
+Piemonte,Alessandria,Orsara Bormida,Orsara Bormida,16,12,1987,Fall,8.56026,44.69431,1,70,False,False,False,False,True
+Piemonte,Alessandria,Orsara Bormida,Orsara Bormida,24,8,1987,Flow,8.56026,44.69431,1,71,True,False,False,False,False
+Piemonte,Alessandria,Orsara Bormida,Orsara Bormida,7,10,1977,Complex,8.56026,44.69431,17,63,True,False,False,False,False
+Piemonte,Alessandria,Ovada,Grillano,8,3,1985,Sliding,8.61303,44.64058,1,72,True,False,False,False,False
+Piemonte,Alessandria,Ponti,Cravarezza (Chiesa Vecchia),19,2,1972,Fall,8.36181,44.63963,4,52,True,True,True,True,False
+Piemonte,Alessandria,Terzo,Terzo - Lungo la SS n. 30 in prossimità dell'abitato,17,5,1954,Fall,8.41244,44.66895,1,73,True,False,False,False,False
+Piemonte,Alessandria,Trisobbio,Trisobbio  - Zona in prossimità dell'abitato,7,10,1977,Sliding,8.59058,44.6617,17,63,True,False,False,False,False
+Piemonte,Biella,Lessona,Lessona - Via Roma,5,10,1992,Debris flow,8.19301,45.59068,1,74,True,True,False,False,False
+Piemonte,Biella,Pray,Pray - Lungo la strada per Ponzone,4,1,1997,Fall,8.19819,45.65853,1,75,False,True,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Arola,Arola - Lungo la SP,2,7,1998,Fall,8.35944,45.81225,1,76,True,False,False,True,False
+Piemonte,Verbano-Cusio-Ossola,Baveno,Baveno - Lungo il Torrente Selva Spessa,8,7,1996,Debris flow,8.48992,45.91048,6,77,True,True,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Beura-Cardezza,Cuzzego - Lungo il Torrente La Valle,7,8,1978,Debris flow,8.28362,46.05429,7,33,True,True,False,True,False
+Piemonte,Verbano-Cusio-Ossola,Bognanco,Bognanco - Lungo la SP della Valle Bognanco all'imbocco della valle,14,11,1997,Fall,8.20883,46.12394,1,78,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Calasca-Castiglione,Castiglione - Molini (tra le due località lungo la SS n. 549 di Macugnana),17,5,1995,Fall,8.20859,46018,1,79,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Cannero Riviera,Cassino di Cannero - Lungo la SS n. 34 del Lago Maggiore,19,8,1997,Fall,8.66687,46.01186,1,80,False,False,False,False,True
+Piemonte,Verbano-Cusio-Ossola,Crevoladossola,Crevoladossola - Lungo la SS n. 33 al km 129+300,7,10,1977,Fall,8.2887,46.15918,2,81,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Druogno,Druogno - Lungo la Valle di Albogno,7,8,1978,Sliding,8.42308,46.13923,7,33,True,True,False,True,False
+Piemonte,Verbano-Cusio-Ossola,Druogno,Paiesco - Lungo la SS n. 337 della Val Vigezzo al km 7,29,5,1998,Fall,8.37778,46.12881,3,36,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Masera,Masera - Lungo la SS n. 337 della Val Vigezzo al km 4,23,4,1995,Fall,8.3357,46.13122,1,84,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Omegna,Omegna - Lungo la strada per Nonio e Cesara,22,6,1997,Fall,8.39198,45.86506,1,85,True,True,True,False,False
+Piemonte,Verbano-Cusio-Ossola,Re,Re - Lungo la linea ferroviaria,12,7,1961,Debris flow,8.55322,46.13223,2,83,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Re,Re - Lungo la SS n. 337 Vigezzina,2,11,1968,Fall,8.57179,46.13992,1,86,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Trasquera,Paglino - Lungo la SS del Sempione all'altezza dell'imbocco della galleria ferroviaria,1,6,1997,Fall,8.15929,46.19837,1,87,False,False,False,False,True
+Piemonte,Verbano-Cusio-Ossola,Trontano,Cosasca,7,8,1978,Flow,8.32179,46.10035,7,33,True,True,False,True,False
+Piemonte,Verbano-Cusio-Ossola,Valstrona,Valstrona (Comune di),6,10,1998,Fall,8.33158,45.90615,3,27,True,False,False,False,False
+Piemonte,Verbano-Cusio-Ossola,Valstrona,Fornero,7,10,1977,Debris flow,8.33693,45.90595,2,81,True,False,False,True,False
+Piemonte,Verbano-Cusio-Ossola,Valstrona,Forno - Campello Monti (tra le due località lungo la SP),1,5,1996,Fall,8.24676,45.93496,1,88,False,False,False,False,True
+Piemonte,Verbano-Cusio-Ossola,Villadossola,Villadossola,5,11,1994,Debris flow,8.26335,46.07127,2,31,True,True,False,True,False
+Valle d'Aosta,Aosta,Antey-Saint-Andrè,Buisson - Lungo la SS n. 406 per Cervinia,6,10,1993,Fall,7.59995,45.83246,3,89,True,True,True,False,False
+Valle d'Aosta,Aosta,Antey-Saint-Andrè,Buisson - Lungo la SS n. 406,8,10,1993,Fall,7.59995,45.83246,1,90,True,True,True,False,False
+Valle d'Aosta,Aosta,Antey-Saint-Andrè,"Antey-Saint-Andrè - Camping \Cervino\""""",1,4,1998,Fall,7.58914,45.80725,1,91,False,False,False,False,True
+Valle d'Aosta,Aosta,Avise,Avise - Lungo la strada Avise-Cerellaz,23,1,1994,Fall,7.13549,45.71221,1,92,False,False,True,False,False
+Valle d'Aosta,Aosta,Aymavilles,Pondel - Poco dopo il bivio di Ozein lungo la SC per Epinel,7,11,1997,Fall,7.23171,45.68937,1,93,True,False,False,False,False
+Valle d'Aosta,Aosta,Bionaz,Chemen,8,6,1952,Fall,7.45826,45.88878,1,94,False,False,False,False,True
+Valle d'Aosta,Aosta,Brusson,Extrapieraz - Lungo la strada della Valle d'Ayas,28,8,1997,Fall,7.70038,45.78127,1,95,True,True,False,True,False
+Valle d'Aosta,Aosta,Cogne,Epinel,22,6,1992,Flow,7.32465,45.63129,1,96,True,True,True,False,False
+Valle d'Aosta,Aosta,Cogne,Cogne - Lungo la SR,16,11,2000,Fall,7.30951,45.63896,1,97,True,False,False,False,False
+Valle d'Aosta,Aosta,Courmayeur,Lago Miage,9,8,1996,Fall,6.86859,45.77818,1,98,True,False,False,False,False
+Valle d'Aosta,Aosta,Fenis,Monte San Giuliano,14,10,2000,Complex,7.49224,45.72441,1,99,True,False,False,False,False
+Valle d'Aosta,Aosta,Fontainemore,Fontainemore - Presso il cimitero,25,9,1993,Complex,7.86088,45.65026,1,100,True,False,False,False,False
+Valle d'Aosta,Aosta,Montjovet,Montjovet - Lungo la linea ferroviaria nei pressi dell'abitato,21,3,1980,Fall,7.66813,45.71984,1,102,False,False,False,False,True
+Valle d'Aosta,Aosta,Pontboset,Pontboset - Lungo la SR per Champorcher,24,4,1995,Fall,7.66598,45.62214,2,101,True,False,False,False,False
+Valle d'Aosta,Aosta,Pontey,Pontey - Lungo la SC per Chambave,11,9,1998,Fall,7.57852,45.74289,1,103,True,False,False,False,False
+Valle d'Aosta,Aosta,Prè-Saint-Didier,Monte Crammont,21,7,1978,Fall,6.94951,45.76128,1,104,True,False,False,False,False
+Valle d'Aosta,Aosta,Roisan,Roisan - Lungo la strada all'altezza del bivio per il Pont de Batse,6,10,1992,Flow,7.30822,45.79295,1,105,True,False,False,False,False
+Valle d'Aosta,Aosta,Sarre,Sarre - Lungo la SS n. 26,27,9,1991,Fall,7.25345,45.71328,1,106,True,False,False,False,False
+Valle d'Aosta,Aosta,Sarre,Sarre - Lungo la SS n. 26 sotto il castello,26,5,1995,Fall,7.25345,45.71328,1,107,True,False,False,False,False
+Valle d'Aosta,Aosta,Torgnon,Champagnod,30,11,1982,Fall,7565,45.79299,1,108,True,False,False,False,False
+Valle d'Aosta,Aosta,Torgnon,Torgnon - Lungo la SR,3,9,1998,Fall,7.57425,45.79901,1,109,False,False,False,False,True
+Valle d'Aosta,Aosta,Valsavarenche,Plan de Pesse - Lungo la SR per Valsavarenche,4,6,1998,Fall,7.21127,45.53888,1,110,True,False,False,False,False
+Valle d'Aosta,Aosta,Valtournenche,Cervinia,23,9,1995,Fall,7.63252,45.93585,1,111,True,False,False,False,False
+Valle d'Aosta,Aosta,Verres,Verres - Lungo la SS n. 26 presso il ponte sulla Dora verso Torille,14,9,1994,Fall,7.67558,45.68387,1,112,True,False,False,False,False
+Lombardia,Varese,Caravate,Caravate - Via Buozzi,5,4,1992,Fall,8.67634,45.87993,1,113,True,False,False,False,False
+Lombardia,Varese,Induno Olona,Induno Olona (Comune di),2,6,1992,Flow,8.84194,45.85355,1,114,True,False,False,False,False
+Lombardia,Varese,Varese,Varese - Lungo la strada che porta al Borgo prima del bivio per Campo dei Fiori,28,6,1997,Flow,8.80349,45.85632,1,116,True,True,False,False,False
+Lombardia,Como,Carate Urio - Moltrasio,Carate Urio - Lungo la SS n. 340 Regina verso Moltrasio,8,7,1996,Fall,9.11136,45.86738,6,77,True,True,False,False,False
+Lombardia,Como,Cermenate,Cermenate - Asnago (tra le due località),25,9,1993,Debris flow,9.09038,45.70288,2,120,True,False,True,False,False
+Lombardia,Como,Colonno,Colonno - Lungo  la SS n. 340 Regina,16,8,1966,Fall,9149,45.9567,1,121,True,False,False,True,False
+Lombardia,Como,Colonno,Colonno - Lungo  la SS n. 340 Regina,1,2,1996,Fall,9149,45.9567,2,117,False,False,False,False,True
+Lombardia,Como,Colonno,Colonno - Lungo la SS n. 340 Regina,6,11,2000,Fall,9149,45.9567,2,118,True,False,True,False,False
+Lombardia,Como,Dongo,Mossanzonico,26,1,1996,Fall,9.28419,46.13681,1,122,False,False,False,False,True
+Lombardia,Como,Porlezza,Porlezza - Monte Calbiga,9,7,1996,Flow,9.15062,46.01182,6,77,True,True,False,False,False
+Lombardia,Como,Tremezzo,Tremezzo,28,12,1965,Sliding,9.22887,45.98587,1,123,False,False,False,False,True
+Lombardia,Sondrio,Ardenno,Ardenno,3,7,1998,Flow,9.65334,46.17305,1,126,True,False,True,True,False
+Lombardia,Sondrio,Ardenno,Gaggio,26,6,1998,Debris flow,9.66103,46.18051,1,127,False,False,True,True,False
+Lombardia,Sondrio,Bormio,Bormio - Lungo la SS n. 38 dello Stelvio,17,7,1997,Fall,10.36421,46.50675,1,128,True,False,True,True,False
+Lombardia,Sondrio,Cosio Valtellino,Regoledo,27,7,1987,Fall,9.55292,46.13203,1,129,False,True,True,True,False
+Lombardia,Sondrio,Dubino,Dubino,16,11,2000,Flow,9.46271,46.1551,1,130,True,True,False,True,False
+Lombardia,Sondrio,Gordona,Gordona,23,7,1987,Sliding,9.36421,46.29314,13,125,True,False,False,True,False
+Lombardia,Sondrio,Grosio,Grosio (Comune di),8,10,1993,Flow,10.2737,46.29865,1,131,True,True,True,False,False
+Lombardia,Sondrio,Grosio,Case di Dentro,1,6,1995,Fall,10.29326,46.31261,2,132,True,False,False,False,False
+Lombardia,Sondrio,Lanzada,Cavaglia,17,7,1991,Flow,9.89696,46.25758,1,133,True,False,False,False,False
+Lombardia,Sondrio,Morbegno,Morbegno - Lungo la strada per Albaredo,29,3,1995,Fall,9.57668,46.11543,1,134,False,False,False,False,True
+Lombardia,Sondrio,Piuro,Piuro,20,7,1987,Fall,9.42947,46.32815,13,125,True,False,False,False,False
+Lombardia,Sondrio,Samolaco,Riva - A monte dell'abitato,15,3,1974,Fall,9.4413,46.23047,1,136,False,False,False,False,True
+Lombardia,Sondrio,San Giacomo Filippo,Olmo - San Bernardo (tra le due località),8,7,1987,Sliding,9.36261,46.34514,1,137,False,False,False,False,True
+Lombardia,Sondrio,Sondalo,Verzedo,9,8,1982,Fall,10.35544,46.36857,1,138,True,True,True,True,False
+Lombardia,Sondrio,Sondrio,Gombaro - Lungo la SC per Ponchiera,6,5,1997,Fall,9.87265,46.18224,1,139,True,False,False,False,False
+Lombardia,Sondrio,Sondrio,Ronchi - Lungo la SP n. 15 per la Valmalenco,10,4,1998,Fall,9.87353,46.19471,1,140,True,False,False,False,False
+Lombardia,Sondrio,Spriana,Spriana,2,10,1960,Fall,9.86801,46.21931,2,141,True,False,True,False,False
+Lombardia,Sondrio,Torre di Santa Maria,Torre di Santa Maria,13,10,1993,Fall,9.85124,46.23434,1,142,True,True,True,False,False
+Lombardia,Sondrio,Valdisotto,Valdisotto - Lungo la SP della Val Pola (pista bassa),15,1,1996,Fall,10.35518,46.38428,1,143,False,False,False,False,True
+Lombardia,Sondrio,Valdisotto,Val Pola - Lungo la SS n. 38,26,6,1997,Fall,10.35527,46.39339,3,145,True,True,True,True,False
+Lombardia,Sondrio,Valfurva,Niblogo,18,7,1987,Sliding,10.43283,46.46554,1,146,True,True,True,False,False
+Lombardia,Sondrio,Val Masino,Valbiore,22,3,1977,Fall,9.66221,46.21773,1,147,True,False,False,False,False
+Lombardia,Sondrio,Val Masino,Valbiore,23,11,1991,Fall,9.66221,46.21773,2,148,False,False,False,False,True
+Lombardia,Sondrio,Val Masino,Valbiore,24,11,1991,Fall,9.66221,46.21773,2,148,False,False,False,False,True
+Lombardia,Bergamo,Ardesio,Ardesio - Via Valle,10,9,1993,Flow,9.93196,45.93752,1,149,True,False,False,False,False
+Lombardia,Bergamo,Aviatico,Col di Bates - Poco sotto la località sul versante settentrionale del Monte Rena,10,7,1972,Debris flow,9.80173,45.79004,2,150,False,True,True,True,False
+Lombardia,Bergamo,Colzate,Bondo di Colzate,14,9,1976,Sliding,9.85537,45.8391,1,152,True,False,True,True,False
+Lombardia,Bergamo,Fuipiano Valle Imagna,Fuipiano Valle Imagna (Comune di),8,10,1993,Debris flow,9.52701,45.85071,1,153,True,True,True,False,False
+Lombardia,Bergamo,Gazzaniga,Case Masserini di Orezzo,10,7,1972,Complex,9.82304,45.80622,2,150,False,True,True,True,False
+Lombardia,Bergamo,Mezzoldo,Mezzoldo,15,10,1987,Sliding,9.66644,46.01257,1,154,True,True,False,False,False
+Lombardia,Bergamo,Ponte Nossa,Nossa - Ponte Selva di Parre (tra le due località),25,6,1959,Flow,9.89322,45.87069,2,155,False,False,True,True,False
+Lombardia,Bergamo,San Giovanni Bianco,San Giovanni Bianco - Via Boselli,19,10,1993,Flow,9.65758,45.87447,1,156,True,True,True,True,False
+Lombardia,Bergamo,San Pellegrino Terme,San Pellegrino Terme,5,9,1998,Fall,9.66532,45.83793,4,151,True,False,False,False,False
+Lombardia,Bergamo,San Pellegrino Terme,San Pellegrino Terme - Nei pressi della galleria paravalanghe,5,1,1996,Fall,9.66967,45.84604,1,157,False,False,False,False,True
+Lombardia,Bergamo,Valbondione,Fiumenero (Monte Cornalta),9,4,1992,Fall,9.95721,46.02206,1,158,True,False,False,False,False
+Lombardia,Brescia,Angolo Terme,Anfurro,30,12,1973,Fall,10.14492,45.87898,1,159,True,False,False,False,False
+Lombardia,Brescia,Brescia,Mompiano - Via Cave,8,12,1992,Fall,10.24164,45.57031,1,160,True,False,False,False,False
+Lombardia,Brescia,Capo di Ponte,Zurla - Lungo la linea ferroviaria Breno-Capo di Ponte,24,12,1996,Fall,10.34768,46.02752,1,161,False,False,False,False,True
+Lombardia,Brescia,Collio,Dosso dei Galli - Lungo la SS n. 345,15,6,1996,Fall,10.35279,45.81083,1,162,False,False,False,False,True
+Lombardia,Brescia,Corteno Golgi,Galleno,5,12,1992,Debris flow,10.23377,46.16763,1,163,True,False,False,False,False
+Lombardia,Brescia,Corteno Golgi,Ronco di Corteno Golgi,2,11,1992,Fall,10.25063,46.17025,2,164,False,False,False,False,True
+Lombardia,Brescia,Darfo Boario Terme,Corna - Lungo la ex SS n. 42 e la linea ferroviaria Brescia-Iseo-Edolo,20,4,1998,Fall,10.18121,45.88816,1,165,False,True,False,False,False
+Lombardia,Brescia,Esine,Esine - Via Pittore Nodari,21,6,1996,Fall,10.25597,45.92626,1,166,True,False,False,False,False
+Lombardia,Brescia,Malegno,Valarno - Lungo la strada per Ossimo e Borno,2,11,1998,Fall,10.26105,45.95247,1,167,False,False,False,False,True
+Lombardia,Brescia,Sarezzo,Noboli - Via San Bernardino,4,1,1997,Fall,10.19368,45.66227,1,168,True,True,True,True,False
+Lombardia,Brescia,Sarezzo,Ponte Zanano - Via Marconi,30,6,1997,Fall,10.18864,45.67343,1,169,True,True,True,False,False
+Lombardia,Brescia,Tignale,Tignale - Campione (tra le due località lungo la Gardesana),24,4,1977,Fall,10.74483,45.74834,1,170,False,False,False,False,True
+Lombardia,Brescia,Toscolano-Maderno,Toscolano-Maderno - Lungo la Gardesana occidentale in prossimità del capoluogo,6,4,1958,Fall,10.59746,45.63657,1,171,True,False,False,False,False
+Lombardia,Pavia,Bagnaria,Casa Galeotti,11,1,1996,Flow,9.14198,44.8203,1,172,True,False,True,False,False
+Lombardia,Pavia,Brallo di Pregola,Corbesassi,29,4,1992,Fall,9.27412,44.70946,1,173,False,False,False,False,True
+Lombardia,Pavia,Varzi,San Martino,8,2,1996,Sliding,9.22643,44.80704,1,174,False,True,False,True,False
+Lombardia,Lecco,Abbadia Lariana,Piani Resinelli - Vecchia casa cantoniera ai margini della frazione,12,5,1996,Fall,9.39238,45.90546,1,175,False,True,False,False,False
+Lombardia,Lecco,Calolziocorte,Calolziocorte - Lungo la strada per Erve,25,9,1993,Fall,9.44645,45.81405,2,120,True,False,False,False,False
+Lombardia,Lecco,Civate,Civate - Via alla Volta,18,11,1996,Fall,9.34412,45.82812,1,176,True,True,False,False,False
+Lombardia,Lecco,Dervio,Dervio - Lungo la SS n. 36 nei pressi dell'abitato,26,2,1972,Fall,9.30934,46.08124,1,177,False,True,True,False,False
+Lombardia,Lecco,Dervio,Dervio - Lungo la SS n. 36 nei pressi dell'abitato,28,11,1970,Fall,9.30934,46.08124,1,178,False,False,False,False,True
+Lombardia,Lecco,Dervio,Dervio - Lungo la SS n. 36 nei pressi dell'abitato,5,12,1970,Fall,9.30934,46.08124,1,179,True,False,False,False,False
+Lombardia,Lecco,Lecco,Chiuso di Lecco - Via del Sarto,25,10,1993,Fall,9.42202,45.82429,1,180,True,True,True,True,False
+Lombardia,Lecco,Lecco,Chiuso di Lecco,1,4,1994,Fall,9.42202,45.82429,1,181,True,False,False,False,False
+Lombardia,Lecco,Lecco,Laorca - Via Paolo VI,7,8,1996,Fall,9.40777,45.88046,1,182,False,False,False,False,True
+Lombardia,Lecco,Lecco,Monte San Martino,5,11,1994,Fall,9.39107,45.8756,1,183,True,False,False,True,False
+Lombardia,Lecco,Lecco,Monte San Martino (zona delle Caviate),11,9,1970,Fall,9.39107,45.8756,1,184,True,False,False,False,False
+Lombardia,Lecco,Varenna,Fiumelatte - Lungo la SP n. 72,8,6,1997,Fall,9.29403,45.99909,1,185,True,False,False,False,False
+Lombardia,Lecco,Varenna,Varenna - Via Venini,29,8,1992,Fall,9.28552,46.01116,1,186,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Bolzano,Bolzano - Via San Maurizio,5,10,1998,Fall,11.33787,46.50906,2,187,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Bolzano,Cardano - Lungo la SS n. 241 della Val d'Ega all'imbocco della valle,6,5,1997,Fall,11.3892,46.49662,1,189,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Bolzano,Bolzano - Lungo la A 22 al km 65 per Chiusa,5,5,1998,Fall,11.38401,46.49717,1,190,False,False,True,False,False
+Trentino-Alto Adige,Bolzano,Bolzano,Bolzano - Lungo la strada della val d'Ega,27,7,1998,Fall,11.39771,46.48678,1,191,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Brennero,Passo del Brennero,11,11,1976,Fall,11.50608,47.00719,1,192,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Chiusa,Chiusa,25,8,1956,Debris flow,11.56646,46.6408,1,194,True,True,True,True,False
+Trentino-Alto Adige,Bolzano,Chiusa,Chiusa,10,8,1970,Fall,11.56646,46.6408,1,195,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Chiusa,Chiusa - Lungo la linea ferroviaria del Brennero,9,8,1980,Sliding,11.5843,46.64575,1,196,True,False,False,True,False
+Trentino-Alto Adige,Bolzano,Cornedo all'Isarco,Prato Isarco,8,6,1954,Fall,11.44717,46.49648,1,197,True,False,True,True,False
+Trentino-Alto Adige,Bolzano,Cornedo All'isarco,Prato Isarco - Lungo la SP n. 24,24,1,1998,Fall,11.44893,46.49641,1,199,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Corvara in Badia,Colfosco,23,7,1978,Sliding,11.85541,46.55592,1,200,True,True,True,True,False
+Trentino-Alto Adige,Bolzano,Fortezza,Fortezza,28,7,1953,Debris flow,11.61357,46.79171,1,201,False,False,True,False,False
+Trentino-Alto Adige,Bolzano,Fortezza,Fortezza,21,7,1967,Debris flow,11.61357,46.79171,1,202,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Fortezza,Pra di Sopra,27,7,1965,Debris flow,11.60372,46.79972,1,203,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Fortezza,Fortezza - Lungo la SS n. 12 del Brennero,10,10,1998,Fall,11.60218,46.8007,2,198,True,True,False,False,False
+Trentino-Alto Adige,Bolzano,Fortezza,Le Cave - Lungo la SS,7,8,1998,Fall,11.53745,46.82176,2,204,False,False,False,True,False
+Trentino-Alto Adige,Bolzano,Fortezza,Le Cave - Lungo la SS,14,9,1998,Fall,11.53745,46.82176,1,205,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Fortezza,Mezzaselva - Lungo la linea ferroviaria,28,6,1997,Fall,11.57528,46.80865,2,188,True,True,True,True,False
+Trentino-Alto Adige,Bolzano,Laces,Tarres - Campofreddo (tra le due località),29,6,1951,Flow,10.8776,46.60871,1,206,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Lauregno,Lauregno,3,7,1953,Debris flow,11.06206,46.45526,1,207,False,True,True,False,False
+Trentino-Alto Adige,Bolzano,Montagna,Molini - Casignano (tra le due località lungo la strada),30,4,1998,Fall,11.31307,46.30617,1,208,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Nalles,Nalles,26,11,2000,Debris flow,11.2042,46.54176,1,209,True,True,True,True,False
+Trentino-Alto Adige,Bolzano,Nova Levante,Nova Levante - Lago di Carezza (Gruppo del Latemar),13,9,2000,Fall,11.57469,46.41099,1,210,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Ora,Ora (Comune di),22,11,1952,Fall,11.29806,46.3502,1,211,True,False,False,True,False
+Trentino-Alto Adige,Bolzano,Rasun Anterselva,Anterselva - Lungo la SP per Passo Stalle,1,8,1998,Debris flow,12.12697,46.87573,2,212,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,Renon,Campodazzo,30,5,1962,Fall,11.49109,46.53475,1,213,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,San Leonardo in Passiria,Moso in Passiria - San Leonardo (tra le due località lungo la SS n. 44),13,7,1992,Fall,11.24715,46.81434,1,214,True,False,False,False,False
+Trentino-Alto Adige,Bolzano,San Leonardo in Passiria,San Leonardo in Passiria,6,6,1951,Debris flow,11.24654,46.81136,1,215,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Santa Cristina Valgardena,Santa Cristina in Valgardena,24,3,1951,Sliding,11.72461,46.55937,1,216,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Sarentino,Sarentino (Comune di),14,5,1963,Fall,11.3577,46.64484,1,217,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Senales,Senales - Val Senales,31,3,1953,Fall,10.93161,46.68668,1,218,False,False,False,False,True
+Trentino-Alto Adige,Bolzano,Senales,Ratisio vecchia - Lungo la SP della Val Senales al km 2+600,12,10,1998,Fall,10.94508,46.67189,1,219,True,True,False,True,False
+Trentino-Alto Adige,Bolzano,Senales,Senales - Lungo la SP per il maso Corto 50 m oltre il bivio per Madonna di Senales,25,8,1997,Fall,10.86054,46.7253,1,220,False,False,False,True,False
+Trentino-Alto Adige,Bolzano,Terlano,Vilpiano,26,3,1969,Fall,11.22424,46.56066,1,221,False,False,False,False,True
+Trentino-Alto Adige,Trento,Ala,Ala - Ronchi (tra le due località),20,12,1958,Fall,11.04814,45.74559,1,222,True,True,False,False,False
+Trentino-Alto Adige,Trento,Aldeno,Aldeno - Lungo la SP n. 90 Nomi-Aldeno,9,10,1992,Fall,11.09276,45.96257,1,223,True,True,False,False,False
+Trentino-Alto Adige,Trento,Avio,Vò Sinistro - Lungo la SS n. 12,13,11,1997,Fall,10.9593,45.73497,3,224,True,False,False,False,False
+Trentino-Alto Adige,Trento,Avio,Vò Sinistro,13,11,1997,Fall,10.9593,45.73497,3,224,True,False,False,False,False
+Trentino-Alto Adige,Trento,Bezzecca,Bezzecca - Lungo la strada Bezzeca-Tiarno in Val di Ledro,9,3,1991,Fall,10.70067,45.89371,1,225,True,False,False,False,False
+Trentino-Alto Adige,Trento,Borgo Valsugana,Borgo Valsugana,17,4,1956,Fall,11.46082,46.05463,1,226,True,False,False,False,False
+Trentino-Alto Adige,Trento,Brez,Arsio - Val di Non nei pressi dell'abitato,21,5,1952,Fall,11.09969,46.42891,1,227,False,False,False,False,True
+Trentino-Alto Adige,Trento,Caldonazzo,Caldonazzo,18,1,1951,Fall,11.26569,45.9915,1,228,True,False,False,False,False
+Trentino-Alto Adige,Trento,Caldonazzo,Caldonazzo - Lungo la SP n. 133 di Monte Rovere,7,10,1997,Fall,11.29263,45.97299,1,229,False,False,False,False,True
+Trentino-Alto Adige,Trento,Calliano,Calliano - Lungo la SP per Folgaria sotto Castel Beseno,4,1,1996,Fall,11.10477,45.93095,1,230,False,False,False,False,True
+Trentino-Alto Adige,Trento,Canal San Bovo,Ronco Chiesa - Ronco Fosse (tra le due località lungo la SP),1,4,1995,Fall,11.71576,46.14244,1,231,False,False,False,False,True
+Trentino-Alto Adige,Trento,Cavalese,Cavalese - Val di Fiemme,9,7,1954,Fall,11.4596,46.29294,1,232,True,True,True,True,False
+Trentino-Alto Adige,Trento,Civezzano,Cognola - Civezzano (tra le due località lungo la SP),16,4,1992,Fall,11.17561,46.08436,1,233,True,False,False,False,False
+Trentino-Alto Adige,Trento,Cunevo,Cunevo,23,4,1953,Fall,11.03607,46.28741,1,234,False,False,False,False,True
+Trentino-Alto Adige,Trento,Drena,Drena (Comune di),4,7,1994,Debris flow,10.94742,45.97113,1,235,False,False,False,True,False
+Trentino-Alto Adige,Trento,Dro,Monte Casale,1,6,1987,Fall,10.94115,46.02326,1,236,False,False,False,False,True
+Trentino-Alto Adige,Trento,Fiera di Primiero,Primiero,12,11,1966,Sliding,11.82925,46.1781,1,237,False,False,False,False,True
+Trentino-Alto Adige,Trento,Lardaro,Lardaro (Comune di),27,2,1958,Fall,10.66365,45.97287,1,238,True,False,False,False,False
+Trentino-Alto Adige,Trento,Mezzocorona,Mezzocorona (Comune di),5,10,1991,Fall,11.12027,46.2165,1,239,True,False,False,False,False
+Trentino-Alto Adige,Trento,Moena,Moena - Via Dos Budon (parte alta),19,11,1996,Flow,11.65646,46.37923,1,240,True,False,False,False,False
+Trentino-Alto Adige,Trento,Molina di Ledro,Molina di Ledro - Lungo la SP del Ponale,2,3,1956,Fall,10.79875,45.86694,1,241,False,False,False,False,True
+Trentino-Alto Adige,Trento,Molina di Ledro,Ponale,11,5,1997,Fall,10.83346,45.86389,1,242,True,False,False,False,False
+Trentino-Alto Adige,Trento,Mori,Pannone - Lungo la SP Pannone in Val di Gresta,14,7,1991,Fall,10.93594,45.87895,1,243,True,False,False,True,False
+Trentino-Alto Adige,Trento,Nago-Torbole,Corno di Bo',9,5,1979,Fall,10.86521,45.85181,1,244,False,False,False,False,True
+Trentino-Alto Adige,Trento,Nomi,Nomi (Comune di),30,10,1992,Fall,11.07353,45.9307,1,246,False,False,False,False,True
+Trentino-Alto Adige,Trento,Pieve di Ledro,Pieve di Ledro - Val di Ledro,7,4,1956,Fall,10.74605,45.88616,1,247,False,False,False,False,True
+Trentino-Alto Adige,Trento,Pinzolo,Cima Brenta,20,6,1993,Fall,10.87789,46.18829,1,248,True,False,False,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Riva del Garda (Comune di),4,11,1963,Fall,10.84527,45.88888,1,249,True,False,False,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Riva del Garda - Litoranea Riva-Torbole,2,10,1993,Fall,10.86309,45.87776,1,250,True,True,True,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Riva del Garda - Lungo la SS n. 45 bis Gardesana Occidentale al km 111,31,5,1995,Fall,10.8369,45.87369,2,245,True,False,False,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Riva del Garda - Lungo la SS n. 45 bis Gardesana Occidentale al km 111,27,9,1994,Fall,10.8369,45.87369,1,251,True,False,False,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Rocchetta - Lungo il sentiero 200 m sopra Santa Barbara,24,11,1996,Fall,10.82889,45.88454,1,252,True,True,False,False,False
+Trentino-Alto Adige,Trento,Riva del Garda,Riva del Garda - Lungo la SS Gardesana (uscita della galleria Deiopea),3,2,1999,Fall,10.83714,45.8747,1,253,False,False,False,False,True
+Trentino-Alto Adige,Trento,Soraga,Soraga,5,8,1964,Fall,11.66861,46.39942,1,254,False,False,True,True,False
+Trentino-Alto Adige,Trento,Stenico,Lago Ponte Pià - Lungo la SS n. 237,5,6,1992,Debris flow,10.84222,46.05417,1,255,True,True,False,False,False
+Trentino-Alto Adige,Trento,Terragnolo,Terragnolo - Lungo la SP per Rovereto all'altezza delle due gallerie,6,7,1997,Fall,11.10868,45.8787,1,256,True,True,True,False,False
+Trentino-Alto Adige,Trento,Tesero,Stava di Tesero,17,7,1991,Flow,11.50426,46.31652,1,257,True,False,False,False,False
+Trentino-Alto Adige,Trento,Ton,Ceramica di Vigo di Ton - Lungo la SS n. 43,14,12,1974,Sliding,11.06364,46.25634,1,258,False,False,False,False,True
+Trentino-Alto Adige,Trento,Trento,Doss di Trento,9,11,1962,Fall,11.11076,46.06769,1,259,True,True,False,False,False
+Trentino-Alto Adige,Trento,Trento,Piedicastello,28,12,1957,Fall,11.1136,46.07053,1,260,False,False,False,False,True
+Trentino-Alto Adige,Trento,Trento,Vela,21,10,1996,Fall,11.1021,46.08211,1,261,True,False,False,False,False
+Trentino-Alto Adige,Trento,Vallarsa,Vallarsa (Comune di),3,2,1997,Fall,11.11977,45.78398,1,262,False,False,False,False,True
+Trentino-Alto Adige,Trento,Vallarsa,Piano,29,9,1953,Debris flow,11.13335,45.77462,1,263,True,True,False,False,False
+Trentino-Alto Adige,Trento,Zambana,Zambana,26,11,1955,Fall,11.07188,46.1602,1,264,False,False,False,False,True
+Trentino-Alto Adige,Trento,Zambana,Zambana,8,3,1959,Debris flow,11.07188,46.1602,1,265,True,False,False,False,False
+Trentino-Alto Adige,Trento,Zambana,Zambana,11,1,1957,Fall,11.07188,46.1602,1,266,False,False,False,False,True
+Trentino-Alto Adige,Trento,Zambana,Zambana,22,3,1956,Flow,11.07188,46.1602,1,267,True,False,False,False,False
+Trentino-Alto Adige,Trento,Zambana,Zambana,28,10,1959,Debris flow,11.07188,46.1602,1,268,True,False,False,False,False
+Trentino-Alto Adige,Trento,Zambana,Zambana Vecchia,1,8,1985,Fall,11.07188,46.1602,1,269,True,True,True,True,False
+Veneto,Vicenza,Arsiero,Arsiero,22,3,1955,Fall,11.35433,45.80442,2,270,True,False,False,False,False
+Veneto,Vicenza,Arsiero,Arsiero,22,3,1955,Fall,11.35433,45.80442,2,270,True,False,False,False,False
+Veneto,Vicenza,Bassano del Grappa,Sarson - Lungo la vecchia SP Campesana,2,10,1993,Fall,11.71822,45.79014,1,271,True,False,True,False,False
+Veneto,Vicenza,Recoaro Terme,Bonomini,27,6,1989,Flow,11.26604,45.68764,1,272,True,False,False,True,False
+Veneto,Vicenza,Recoaro Terme,Valle Rotolon,17,3,1985,Sliding,11.17835,45.71147,1,273,True,True,False,False,False
+Veneto,Vicenza,San Nazario,Carpanè - Lungo la strada sotto il monte,5,9,1989,Fall,11.66383,45.85995,1,274,True,False,False,True,False
+Veneto,Vicenza,San Nazario,Carpanè,14,1,1981,Fall,11.66383,45.85995,1,275,False,False,False,False,True
+Veneto,Vicenza,San Nazario,Rivalta - Lungo la linea FS Bassano-Trento,20,12,1994,Fall,11.68289,45.88155,1,276,True,False,False,False,False
+Veneto,Vicenza,San Nazario,Rivalta,28,8,1981,Fall,11.68322,45.88241,1,277,False,False,False,True,False
+Veneto,Vicenza,San Nazario,Pian dei Zocchi - Lungo la SS n. 47 della Valsugana,27,12,1997,Fall,11.67596,45.8735,1,278,False,False,False,False,True
+Veneto,Vicenza,Schio,Bosco di Tretto - Lungo la strada per Santa Caterina,18,8,1997,Fall,11.33673,45.76032,1,279,True,False,True,True,False
+Veneto,Vicenza,Solagna,Solagna - Via Fontanazzi (lungo la ex SS per San Nazario),26,11,1998,Fall,11.71706,45.82028,1,280,False,False,False,False,True
+Veneto,Vicenza,Sovizzo,Sovizzo,7,2,1951,Fall,11.43962,45.52653,1,281,True,True,False,False,False
+Veneto,Vicenza,Valdastico,San Pietro,9,7,1978,Fall,11.36509,45.88555,1,282,True,True,True,True,False
+Veneto,Vicenza,Valli del Pasubio,Gisbenti,30,10,1976,Complex,11.24138,45.74529,1,283,True,False,True,True,False
+Veneto,Belluno,Agordo,SS n. 203 Agordina poco prima della galleria dei Castei,7,11,1997,Fall,12.02809,46.29198,1,284,True,False,False,False,False
+Veneto,Belluno,Alano di Piave,Alano di Piave,29,5,1968,Flow,11.91236,45.90986,1,285,False,False,False,False,True
+Veneto,Belluno,Alleghe,Masarè - Lungo la SS n. 203 Agordina,16,10,1996,Fall,12.01463,46.39835,1,286,True,False,False,False,False
+Veneto,Belluno,Auronzo di Cadore,Auronzo di Cadore - Tre Cime,27,8,1970,Fall,12.29388,46.61528,1,287,False,False,True,True,False
+Veneto,Belluno,Auronzo di Cadore,Somprade,12,10,1958,Flow,12.33667,46.53007,1,288,True,False,False,True,False
+Veneto,Belluno,Auronzo di Cadore,Cima Grande di Lavaredo - Spigolo Dibona,8,8,1968,Fall,12.30559,46.61835,1,289,False,False,False,True,False
+Veneto,Belluno,Borca di Cadore,Cancia,2,7,1994,Flow,12.22781,46.43191,1,290,False,False,False,True,False
+Veneto,Belluno,Borca di Cadore,Cancia,8,8,1996,Flow,12.22781,46.43191,1,291,True,False,True,True,False
+Veneto,Belluno,Borca di Cadore,Cancia - Monte Antelao,14,6,1997,Debris flow,12.23448,46.43493,1,292,True,True,True,False,False
+Veneto,Belluno,Castello Lavazzo,Codissago - Lungo la SS n. 251,8,10,1998,Fall,12.30287,46.28071,17,193,True,True,False,True,False
+Veneto,Belluno,Cencenighe Agordino,Monte delle Anime - Lungo la SS n. 203 Agordina verso Alleghe,18,6,1995,Fall,11.97484,46.36128,1,293,False,True,True,False,False
+Veneto,Belluno,Chies d'Alpago,Funes (Frana del Tessina),23,4,1992,Complex,12.40149,46.17852,2,294,False,False,False,False,True
+Veneto,Belluno,Chies d'Alpago,Funes - San Martino (lungo la strada di collegamento delle località),31,5,1995,Flow,12.40149,46.17852,1,295,True,False,False,False,False
+Veneto,Belluno,Chies d'Alpago,Funes (Frana del Tessina),10,10,1998,Flow,12.40149,46.17852,2,296,True,True,True,False,False
+Veneto,Belluno,Cibiana di Cadore,Cibiana di Cadore,17,9,1968,Flow,12.28799,46.3901,2,298,True,False,True,True,False
+Veneto,Belluno,Colle Santa Lucia,Pienpont - Codalonga,23,4,1987,Sliding,12.02968,46.46237,1,299,False,False,False,False,True
+Veneto,Belluno,Cortina d'Ampezzo,Zuel,6,11,1961,Complex,12.14635,46.51541,1,303,True,False,False,False,False
+Veneto,Belluno,Cortina d'Ampezzo,Fiames - Lungo la SS n. 51 Alemagna al km 56+400,4,9,1997,Debris flow,12.12072,46.57503,2,304,False,False,False,True,False
+Veneto,Belluno,Cortina d'Ampezzo,Passo Tre Croci - Ponte Rudavoi lungo la SS n. 48 delle Dolomiti al km 132+100,4,9,1997,Fall,12.21343,46.5575,2,304,False,False,False,True,False
+Veneto,Belluno,Falcade,Falcade Bassa,28,10,1953,Flow,11.87915,46.35968,1,306,True,True,False,False,False
+Veneto,Belluno,Feltre,Pedesalto - Galleria lungo la SS n. 50,21,11,1993,Fall,11.86361,46.01103,1,307,False,False,False,False,True
+Veneto,Belluno,Feltre,Anzù - Lungo la strada di ingresso all'abitato,29,7,1998,Fall,11.93861,46.00748,1,308,True,False,False,False,False
+Veneto,Belluno,Gosaldo,Gosaldo,2,12,1966,Flow,11.95629,46.22306,1,309,True,False,False,False,False
+Veneto,Belluno,Livinallongo del Col di Lana,Arabba,5,7,1992,Fall,11.87562,46.49965,2,310,True,False,True,False,False
+Veneto,Belluno,Livinallongo del Col di Lana,Arabba,10,4,1966,Debris flow,11.87562,46.49965,1,311,False,False,False,False,True
+Veneto,Belluno,Longarone,Longarone - Monte Toc,20,12,1966,Sliding,12.32946,46.24288,1,312,False,False,False,False,True
+Veneto,Belluno,Longarone,Longarone - Monte Toc,25,10,1963,Fall,12.32946,46.24288,1,313,False,False,False,False,True
+Veneto,Belluno,Longarone,Pirago,7,7,1989,Fall,12.29825,46.26351,1,314,True,True,True,True,False
+Veneto,Belluno,Ospitale di Cadore,Termine,5,11,1966,Complex,12.31974,46.30448,13,300,True,False,True,False,False
+Veneto,Belluno,Ospitale di Cadore,Ospitale di Cadore,6,1,1977,Flow,12.32467,46.33231,1,315,True,False,False,False,False
+Veneto,Belluno,Ospitale di Cadore,"Ospitale di Cadore - Lungo la SS n. 51 \Alemagna\""""",24,8,1998,Fall,12.32569,46.33131,1,316,True,False,False,True,False
+Veneto,Belluno,Rocca Pietore,Laste - Lungo la SC per Rocca Pietore,26,4,1978,Flow,11.98116,46.45263,1,317,False,False,False,False,True
+Veneto,Belluno,San Pietro di Cadore,Costalta,16,8,1966,Sliding,12.57606,46.5808,1,318,True,True,True,True,False
+Veneto,Belluno,San Pietro di Cadore,Val Visdende,10,4,1967,Fall,12.63139,46.6287,2,319,True,True,False,False,False
+Veneto,Belluno,Santa Giustina,Bivai,4,11,1987,Sliding,12.00707,46.07221,1,320,False,False,False,False,True
+Veneto,Belluno,San Tomaso Agordino,Avoscan,15,12,1959,Sliding,11.98707,46.38211,1,321,True,True,False,False,False
+Veneto,Belluno,Santo Stefano di Cadore,Santo Stefano di Cadore,4,11,1966,Flow,12.54999,46.55809,13,300,True,False,False,True,False
+Veneto,Belluno,Santo Stefano di Cadore,Santo Stefano di Cadore,9,11,1962,Flow,12.54999,46.55809,1,322,True,True,False,False,False
+Veneto,Belluno,Santo Stefano di Cadore,Santo Stefano di Cadore - Lungo la SS n. 52 Carnica,2,10,1993,Fall,12.54099,46.55412,1,323,True,False,True,False,False
+Veneto,Belluno,San Vito di Cadore,Chiappuzza,17,2,1960,Flow,12.20327,46.47382,1,324,True,False,False,False,False
+Veneto,Belluno,San Vito di Cadore,Chiappuzza,24,7,1972,Flow,12.20327,46.47382,1,325,False,False,True,True,False
+Veneto,Belluno,Sappada,Sappada,24,2,1958,Flow,12.67032,46.5673,1,326,False,False,False,False,True
+Veneto,Belluno,Sedico,"Candaten - Lungo la SS n. 203 \Agordina\""""",4,7,1998,Fall,12127,46.19978,1,327,True,True,True,True,False
+Veneto,Belluno,Sedico,"La Stanga - Lungo la SS n. 203 \Agordina\"" al km 15+700""",3,10,1998,Fall,12.13131,46.2114,1,328,False,False,False,True,False
+Veneto,Belluno,Sedico,SS n. 203 Agordina,27,4,1997,Fall,12.12628,46.19082,1,329,True,False,False,False,False
+Veneto,Belluno,Taibon Agordino,Listolade - Lungo la SS n. 203 Agordina,17,5,1995,Fall,12.00683,46.31689,1,330,True,False,False,False,False
+Veneto,Belluno,Taibon Agordino,Pra,31,1,1986,Fall,11.9341,46.29814,1,331,True,False,False,False,False
+Veneto,Belluno,Vas,Vas - Lungo la SC per l'abitato,11,9,1998,Fall,11.93837,45.94067,1,332,False,False,False,False,True
+Veneto,Treviso,San Pietro di Feletto,San Pietro di Feletto,16,10,1960,Sliding,12.23906,45.93051,1,333,True,True,True,True,False
+Veneto,Padova,Galzignano Terme,Galzignano Terme,16,1,1961,Complex,11.72969,45.31,1,334,True,True,True,True,False
+Veneto,Padova,Teolo,Castenuovo,13,1,1962,Complex,11.68764,45.33211,1,335,True,False,False,False,False
+Veneto,Padova,Teolo,Castenuovo,16,10,1960,Complex,11.68764,45.33211,1,336,True,True,True,True,False
+Veneto,Padova,Teolo,Castenuovo,15,4,1958,Complex,11.68764,45.33211,1,337,True,True,True,False,False
+Veneto,Padova,Teolo,Castenuovo,29,3,1956,Complex,11.68764,45.33211,1,338,False,False,False,False,True
+Veneto,Padova,Vo,Bagnara Alta - Monte Altore,12,1,1996,Fall,11.64836,45.34984,1,339,True,False,True,False,False
+Friuli-Venezia Giulia,Udine,Arta Terme,Arta Terme,27,4,1975,Fall,13.02557,46.47331,1,340,False,False,False,False,True
+Friuli-Venezia Giulia,Udine,Bordano,Interneppo,6,4,1966,Fall,13.08463,46.32588,1,341,False,False,False,False,True
+Friuli-Venezia Giulia,Udine,Chiusaforte,Chiusaforte,5,11,1966,Debris flow,13.30759,46.40917,13,300,True,False,True,True,False
+Friuli-Venezia Giulia,Udine,Faedis,Borgata Canebola,27,6,1958,Complex,13.38438,46.18057,1,342,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Lusevera,Tanamea - Passo di (lungo la strada),28,7,1992,Fall,13.32433,46.30525,1,344,False,False,False,False,True
+Friuli-Venezia Giulia,Udine,Lusevera,Micottis,26,9,1991,Sliding,13.27922,46.28052,2,345,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Moruzzo,Moruzzo,12,9,1998,Flow,13.1228,46.11977,2,346,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Paluzza,Case Moscardo,13,7,1977,Complex,13.01614,46.55481,1,347,True,False,True,True,False
+Friuli-Venezia Giulia,Udine,Pontebba,Pontebba - Lungo la strada e la galleria del Pramollo,22,6,1996,Fall,13.30298,46.53047,2,348,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Pontebba,Pontebba,7,4,1975,Debris flow,13.30504,46.50846,1,349,True,True,True,False,False
+Friuli-Venezia Giulia,Udine,Prato Carnico,Prato Carnico,15,2,1951,Sliding,12.79823,46.52239,1,350,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Pulfero,Stupizza (Valico di) - Lungo la SS n. 54 nel tratto Pulfero-Confine di Stato,2,3,1991,Fall,13.48522,46.20937,1,352,False,False,False,False,True
+Friuli-Venezia Giulia,Udine,Resiutta,Resiutta,18,8,1966,Sliding,13.21901,46.39242,1,353,True,False,True,True,False
+Friuli-Venezia Giulia,Udine,Rigolato,Rigolato,5,4,1975,Flow,12.84955,46.55517,1,354,True,False,True,False,False
+Friuli-Venezia Giulia,Udine,Rigolato,Rigolato - Lungo la SS n. 355 della Val Degano (300 m a monte della galleria  poco dopo il bivio per Givigliana),3,10,1991,Fall,12.84474,46.5647,1,355,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Rigolato,Rigolato - Lungo la SS n. 355 della Val Degano Villa Santina-Forni Avoltri (a meno di un Km da Rigolato),29,4,1992,Fall,12.85527,46.55076,1,356,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Rigolato,Givigliana - Lungo la SC,14,11,1996,Fall,12.8433,46.5727,2,351,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,San Pietro al Natisone,Costa,24,6,1958,Sliding,13.5205,46.16863,1,357,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Taipana,Taipana - Lungo la SP per Nimis al Km 18,23,8,1992,Fall,13.31859,46.25131,1,359,False,False,False,False,True
+Friuli-Venezia Giulia,Udine,Tolmezzo,Tolmezzo - Lungo la SC per Fusea (in prossimità del 2° tornante a valle),11,7,1992,Fall,13.00531,46.41865,1,360,True,False,False,False,False
+Friuli-Venezia Giulia,Udine,Treppo Carnico,Tausia,8,12,1960,Sliding,13.0577,46.54038,1,361,True,False,False,False,False
+Friuli-Venezia Giulia,Trieste,Trieste,Trieste,22,5,1953,Fall,13.77161,45.64932,1,362,False,False,False,False,True
+Friuli-Venezia Giulia,Pordenone,Aviano,Bornass - Lungo la strada Piancavallo-Pordenone,2,1,1995,Fall,12.54105,46.08361,1,363,False,False,False,False,True
+Friuli-Venezia Giulia,Pordenone,Barcis,Barcis,9,9,1965,Fall,12.55988,46.19072,1,364,False,False,False,True,False
+Friuli-Venezia Giulia,Pordenone,Barcis,Barcis,10,4,1967,Debris flow,12.55988,46.19072,2,319,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Barcis,Barcis,2,9,1965,Fall,12.55988,46.19072,1,365,True,False,False,True,False
+Friuli-Venezia Giulia,Pordenone,Barcis,Barcis - Lungo la SS n. 251 per Arcola,20,12,1997,Fall,12.53751,46.19654,1,366,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Castelnovo del Friuli,Castelnovo del Friuli,6,10,1998,Debris flow,12.90335,46.20208,17,193,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Cavasso Nuovo,Cavasso Nuovo,16,9,1968,Fall,12.77107,46.19768,2,298,True,False,True,True,False
+Friuli-Venezia Giulia,Pordenone,Claut,Cellino - Lungo la SS n. 251,6,10,1998,Flow,12.4724,46.24728,17,193,True,True,True,False,False
+Friuli-Venezia Giulia,Pordenone,Clauzetto,Clauzetto - Lungo la SP n. 22 per Castelnovo,6,10,1998,Sliding,12.91061,46.21547,17,193,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Clauzetto,Clauzetto - Lungo la SP per Paludea,12,9,1998,Sliding,12.90055,46.21833,2,346,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Montereale Valcellina,Montereale Valcellina - Lungo la SS n. 251,23,3,1992,Fall,12.65824,46.12726,1,367,False,False,False,False,True
+Friuli-Venezia Giulia,Pordenone,Montereale Valcellina,Montereale Valcellina - Lungo la SS n. 251,5,5,1998,Fall,12.65824,46.12726,1,368,False,False,True,False,False
+Friuli-Venezia Giulia,Pordenone,Montereale Valcellina,Montereale Valcellina - Lungo la SS n. 251 per Barcis,3,6,1990,Fall,12.63158,46.16519,1,369,False,True,False,False,False
+Friuli-Venezia Giulia,Pordenone,Montereale Valcellina,Montereale Valcellina - Ponte di Rovedis,20,10,1998,Fall,12.66162,46.17445,1,370,True,False,False,False,False
+Friuli-Venezia Giulia,Pordenone,Montereale Valcellina,Rovedis (Ponte di) - Lungo la SP Pedemontana,3,5,1998,Fall,12.65964,46.17465,1,371,True,False,True,False,False
+Friuli-Venezia Giulia,Pordenone,Spilimbergo,Spilimbergo - Via Tagliamento (nei pressi del campo sportivo),5,9,1998,Flow,12.90302,46.11256,1,372,True,False,False,False,False
+Liguria,Imperia,Airole,Airole - Lungo la SS n. 20 Val Roja,13,1,1991,Fall,7.5731,43.85612,1,373,False,False,False,False,True
+Liguria,Imperia,Badalucco,Badalucco - Lungo la SS n. 548 della Valle Argentina,14,10,1991,Fall,7.84559,43.91419,1,374,True,False,False,False,False
+Liguria,Imperia,Badalucco,Badalucco - Lungo la SS n. 548 della Valle Argentina presso il bivio Vignai,11,12,1991,Fall,7.84623,43.90787,1,375,False,False,False,False,True
+Liguria,Imperia,Ceriana,Ceriana,21,2,1977,Flow,7.77541,43.88163,1,376,True,False,False,False,False
+Liguria,Imperia,Imperia,Imperia - San Lorenzo al Mare (tra le due località lungo la SS n. 1 Aurelia),24,11,2000,Fall,7.9832,43.86517,2,379,True,True,True,False,False
+Liguria,Imperia,Montalto Ligure,Montalto Ligure - Lungo la SS n. 548 Valle Argentina al km 14,7,12,1992,Fall,7.84088,43.93306,1,380,True,False,False,False,False
+Liguria,Imperia,Pieve di Teco,Pieve di Teco - Lungo la SS n. 28 del Colle di Nava,10,10,1992,Fall,7.94135,44.0286,1,382,True,True,False,False,False
+Liguria,Imperia,San Lorenzo al Mare,San Lorenzo al Mare - Lungo la A10 all'imbocco della galleria Terre Bianche canna di monte,23,11,2000,Debris flow,7.96812,43.86269,2,379,True,True,True,False,False
+Liguria,Savona,Bergeggi,Bergeggi - A valle del capoluogo,6,6,1984,Sliding,8.44542,44.25005,1,387,True,False,True,True,False
+Liguria,Savona,Cairo Montenotte,Cairo Montenotte - Ospedale,4,11,1994,Flow,8.27286,44.40152,2,56,True,True,False,False,False
+Liguria,Savona,Cairo Montenotte,Cairo Montenotte - Via  Marconi,7,3,1991,Fall,8.27769,44.39803,1,389,True,False,False,False,False
+Liguria,Savona,Celle Ligure,Sanda,25,4,1995,Fall,8.52783,44.36266,1,391,True,True,False,False,False
+Liguria,Savona,Savona,Montemoro,22,9,1992,Complex,8.41441,44327,1,401,True,False,False,False,False
+Liguria,Genova,Casarza Ligure,Battilana,19,2,1971,Sliding,9.48291,44.27523,1,405,True,False,False,False,False
+Liguria,Genova,Cicagna,Cicagna - In prossimità dell'abitato,12,1,1970,Flow,9.24224,44.40719,1,406,True,True,False,False,False
+Liguria,Genova,Cogoleto,Cogoleto - Lungo la A10 dei Fiori,29,1,1958,Fall,8.63605,44.38843,1,407,False,False,False,False,True
+Liguria,Genova,Davagna,Rosso - Lungo la SP n. 14,1,11,1992,Fall,9.07431,44.44624,1,408,True,False,True,False,False
+Liguria,Genova,Genova,Carpenara,30,6,1994,Debris flow,8.82438,44.46544,2,409,False,False,False,False,True
+Liguria,Genova,Genova,Molassana - Via Adamoli,24,1,1995,Fall,8.9837,44.4544,1,414,True,False,False,False,False
+Liguria,Genova,Ne,Cassagna,2,11,1968,Sliding,9.47185,44.34333,1,419,True,False,False,False,False
+Liguria,Genova,Sant'Olcese,Sant'Olcese - Lungo la SS n. 80 Trensasco,3,4,1992,Fall,8.95432,44.46327,1,423,True,True,False,False,False
+Liguria,Genova,Sant'Olcese,Trensasco - Lungo la SP n. 80,7,11,1997,Fall,8.95507,44.46074,1,424,True,False,False,False,False
+Liguria,Genova,Serra Riccò,Serra Riccò - San Cipriano (tra le due località),13,10,1982,Debris flow,8.91839,44.50702,1,425,True,True,False,False,False
+Liguria,Genova,Sori,Sori - Lungo la SS n. 1 Aurelia,26,12,1958,Fall,9.11294,44.36996,1,426,True,True,False,False,False
+Liguria,La Spezia,Carro,Passo della Mola - Castiglione Chiavarese (tra le due località),25,3,1969,Flow,9.58045,44.28246,1,430,False,False,False,False,True
+Emilia-Romagna,Piacenza,Bettola,Bramaiano,29,4,1978,Complex,9.61109,44.75801,1,433,True,True,True,False,False
+Emilia-Romagna,Piacenza,Coli,Perino - Belvedere,23,3,1957,Complex,9.50195,44.82071,1,434,True,False,False,False,False
+Emilia-Romagna,Piacenza,Coli,Braschi,27,2,1977,Flow,9.42468,44.74446,1,435,True,True,False,True,False
+Emilia-Romagna,Piacenza,Ferriere,Lago di Comolara - Cassimoreno,4,10,1957,Fall,9.57049,44.63783,1,436,False,False,False,False,True
+Emilia-Romagna,Piacenza,Travo,Pietra Parcellara - A monte della SS PC-GE a 33 km da Piacenza,3,1,1960,Fall,9.49372,44.83855,1,437,False,False,True,True,False
+Emilia-Romagna,Parma,Berceto,Case Giacomone (Pagazzano),20,3,1977,Flow,9.9745,44.5642,1,438,True,False,False,False,False
+Emilia-Romagna,Parma,Berceto,Groppo di Gorro (Roccamurata) - Lungo la SS n. 523 al km 16,11,10,1975,Fall,9.90537,44.54138,1,439,True,False,False,False,False
+Emilia-Romagna,Parma,Corniglio,Signatico,10,5,1977,Debris flow,10.12842,44.54567,1,441,False,False,False,False,True
+Emilia-Romagna,Parma,Corniglio,Groppo di Vestola - Lungo la SP,17,10,1975,Fall,10.12974,44.52393,1,442,True,False,False,False,False
+Emilia-Romagna,Parma,Monchio delle Corti,"Monchio delle Corti - Lungo la SS \Massese\""""",4,11,1998,Fall,10.14388,44.42361,1,443,True,False,False,False,False
+Emilia-Romagna,Parma,Terenzo,Terenzo - Ad ovest dell'abitato,21,10,1975,Flow,10.08533,44.61073,1,444,True,False,False,False,False
+Emilia-Romagna,Parma,Tizzano Val Parma - Corniglio,Tizzano Val Parma - Corniglio (tra le due località lungo la SP),10,2,1977,Flow,10.13467,44.50057,1,445,True,False,False,True,False
+Emilia-Romagna,Parma,Varano dè Melegari,Varano de' Melegari - Lungo la strada della Val Pessola per Solignano,27,8,1998,Fall,9.9829,44.68455,1,446,False,False,False,False,True
+Emilia-Romagna,Reggio nell'Emilia,Casina,Casa Cattoi-Rio Torbido - Lungo la SS n. 63 al km 91+200,21,2,1996,Fall,10.52452,44.54536,1,448,True,False,True,True,False
+Emilia-Romagna,Reggio nell'Emilia,Casina,Casa Cattoi-Rio Torbido - Lungo la SS n. 63 al km 91+200,24,2,1996,Fall,10.52452,44.54536,1,449,True,False,True,True,False
+Emilia-Romagna,Reggio nell'Emilia,Castelnovo nè Monti,Grotte di Calcinara - Lungo la strada per la variante di Felina,9,4,1996,Fall,10.44356,44.44702,1,450,False,False,False,False,True
+Emilia-Romagna,Reggio nell'Emilia,Ligonchio,Caprile - Lungo la SP n. 18 tra Busana e Ligonchio,28,5,1996,Fall,10.33515,44.33687,1,451,False,False,False,False,True
+Emilia-Romagna,Reggio nell'Emilia,Toano,Cerredolo,23,4,1960,Sliding,10.61938,44402,1,452,True,False,False,False,False
+Emilia-Romagna,Reggio nell'Emilia,Toano,Corneto - Zona nei dintorni dell'abitato lungo la strada Cerredolo-Toano,10,9,1972,Flow,10.55944,44.4033,7,447,True,True,False,False,False
+Emilia-Romagna,Reggio nell'Emilia,Vezzano sul Crostolo,La Vecchia,9,6,1973,Flow,10.52757,44.56567,1,453,True,False,False,False,False
+Emilia-Romagna,Modena,Montese,Antoniano - Lungo la SP n. 27 Montese-Ponte Docciola al km 17+200,6,3,1991,Fall,10.90028,44.29733,1,454,False,False,False,False,True
+Emilia-Romagna,Modena,Savignano sul Panaro,Savignano sul Panaro,8,5,1957,Fall,11.04084,44.47932,1,455,False,False,False,True,False
+Emilia-Romagna,Bologna,Castel d'Aiano,Ribecco di Labante,19,1,1996,Fall,11.03974,44.26242,1,456,False,False,False,False,True
+Emilia-Romagna,Bologna,Castel del Rio,Castel del Rio - Lungo la SS Montanara per Moraduccio,24,4,1993,Fall,11503,44.18659,1,457,False,False,False,False,True
+Emilia-Romagna,Bologna,Granaglione,Molino del Pallone - Lungo la SS n. 632 al km 6+300,13,10,1991,Fall,10.96627,44.10379,1,458,True,False,False,False,False
+Emilia-Romagna,Bologna,Granaglione,Casa Gardella - Lungo la SS n. 632 Traversa di Pracchia tra Ponte della Venturina e Molino del Pallone,24,2,1995,Fall,10.97742,44.12134,1,459,True,False,False,False,False
+Emilia-Romagna,Bologna,Loiano,Gole di Scascoli - Lungo la Fondovalle Savena,9,4,1993,Fall,11.30287,44.31692,1,460,False,False,False,False,True
+Emilia-Romagna,Bologna,Loiano,"Scascoli - Lungo la \Fondovalle Savena\""""",26,12,1996,Fall,11.30435,44.31563,1,461,False,False,False,False,True
+Emilia-Romagna,Bologna,Loiano,Barbarolo,5,5,1998,Fall,11.3444,44.29957,1,462,True,False,False,False,False
+Emilia-Romagna,Bologna,Monterenzio,Savazza,13,6,1994,Fall,11.40118,44.30705,1,463,True,False,False,False,False
+Emilia-Romagna,Bologna,Sasso Marconi,"Sasso Marconi - Lungo la SS n. 64 \Porrettana\""""",11,10,1987,Fall,11.24925,44.39966,1,464,False,False,False,False,True
+Emilia-Romagna,Bologna,Vergato,"Calvenzano - Lungo la SS n. 64 \Porrettana\""al km 60+150""",19,4,1960,Flow,11.13816,44.30333,1,465,True,False,False,False,False
+Emilia-Romagna,Ravenna,Brisighella,Brisighella - Vecchio Borgo,21,2,1969,Fall,11.77065,44.22445,1,466,False,False,False,False,True
+Emilia-Romagna,Ravenna,Casola Valsenio,Casola Valsenio - Via San Ruffillo,1,12,1997,Fall,11.60852,44.20937,1,467,True,False,False,False,False
+Emilia-Romagna,Forlì-Cesena,Dovadola,Montone - A monte di Dovadola,8,10,1990,Fall,11.8637,44095,1,468,True,True,False,False,False
+Emilia-Romagna,Forlì-Cesena,Dovadola,San Ruffillo - Lungo la SS n. 67,12,1,1997,Fall,11.86799,44.10405,1,469,False,True,True,False,False
+Emilia-Romagna,Forlì-Cesena,Galeata,San Zeno - Lungo la sede stradale,24,11,1991,Fall,11.86535,44.0191,1,470,True,False,False,False,False
+Emilia-Romagna,Rimini,Santarcangelo di Romagna,Santarcangelo di Romagna,18,12,1992,Fall,12.44605,44.06366,1,471,False,False,False,False,True
+Emilia-Romagna,Rimini,Verucchio,Verucchio - Zona ingresso al centro storico,9,1,1997,Fall,12.42326,43.98388,1,472,False,True,True,False,False
+Toscana,Massa-Carrara,Aulla,Aulla,11,4,1988,Debris flow,9.96944,44.20865,1,473,False,False,False,False,True
+Toscana,Massa-Carrara,Carrara,Carrara - Lungo la strada di Torano,7,11,1994,Fall,10.10436,44.09024,1,474,True,True,False,False,False
+Toscana,Massa-Carrara,Fivizzano,Fivizzano - Lungo la SP Monzone-Isolano,1,10,1993,Debris flow,10.1213,44.16661,1,475,True,True,True,False,False
+Toscana,Massa-Carrara,Fivizzano,Monzone - La Rocca,7,10,1998,Fall,10.13216,44.16017,2,440,True,True,False,False,False
+Toscana,Massa-Carrara,Massa,Forno,24,10,1997,Fall,10.17965,44.08428,1,476,False,False,False,False,True
+Toscana,Massa-Carrara,Massa,Guadine - Lungo la strada,6,1,1997,Fall,10.19149,44.07683,1,477,True,False,True,True,False
+Toscana,Massa-Carrara,Mulazzo,Mulazzo - Lungo la SP n. 61 fra Pieve di Castevoli e Rivazzo,10,1,1996,Sliding,9.91073,44.28404,1,479,True,False,False,False,False
+Toscana,Lucca,Bagni di Lucca,Strette di Cocciglia,27,12,1983,Fall,10.6618,44.04133,1,480,False,True,False,False,False
+Toscana,Lucca,Barga,Loppia Bassa,20,11,1952,Flow,10.48863,44.05593,1,481,True,False,False,False,False
+Toscana,Lucca,Barga,Ricavo (Loppia di Sotto),17,11,1951,Flow,10.48618,44.05451,1,482,True,True,True,False,False
+Toscana,Lucca,Barga,Sommocolonia - Lungo la SC per Barga,1,7,1998,Fall,10.49172,44.09377,1,483,False,False,False,False,True
+Toscana,Lucca,Borgo a Mozzano,Grotte di Anchiano,4,11,1995,Fall,10.53352,43.96827,1,484,True,False,False,False,False
+Toscana,Lucca,Borgo a Mozzano,Borgo a Mozzano - Lungo la SS n. 12 del Brennero,14,9,1997,Fall,10.55439,43.99091,1,485,False,False,False,False,True
+Toscana,Lucca,Minucciano,Pizzo d'Uccello - Lungo la via Oppio-Colnaghi,13,6,1997,Fall,10.19549,44.14229,1,486,False,False,False,False,True
+Toscana,Lucca,Pieve Fosciana,Sillico - Capraia (tra le due località lungo la strada),11,11,1997,Fall,10.45028,44.13912,1,487,True,True,True,False,False
+Toscana,Lucca,Stazzema,Cardoso,19,6,1996,Debris flow,10.31413,44.01441,1,488,False,False,False,False,True
+Toscana,Pistoia,Pistoia,Piteccio - Castagno (tra le due località lungo la strada),4,1,1977,Sliding,10.90138,44.01124,1,489,True,False,True,True,False
+Toscana,Pistoia,Pistoia,Piteccio - Lungo la linea ferroviaria Bologna-Pistoia,18,6,1978,Fall,10.8991,44.00784,1,490,True,False,False,True,False
+Toscana,Pistoia,Piteglio,Popiglio - La Lima (tra le due località),15,11,1985,Fall,10.76476,44.05404,1,491,True,False,False,False,False
+Toscana,Pistoia,Sambuca Pistoiese,Pracchia - Molino del Pallone (tra le due località lungo la linea ferroviaria Porrettana),16,9,1975,Complex,10.95696,44.09012,1,492,True,False,True,False,False
+Toscana,Firenze,Bagno a Ripoli,I Renai - Lungo la strada tra Remole e Rosano,9,2,1987,Sliding,11.39968,43.78301,1,493,False,False,False,False,True
+Toscana,Firenze,Barberino di Mugello,Montecarelli - Lungo la SS n. 65 della Futa al km 37,17,2,1960,Sliding,11.26201,44.04179,1,494,True,True,False,True,False
+Toscana,Firenze,Borgo San Lorenzo,Colla di Casaglia - Lungo la SS n. 302,5,12,1959,Complex,11.51913,44.03779,1,495,True,False,False,False,False
+Toscana,Firenze,Fiesole,Fonte Lucente,4,11,1966,Sliding,11.2886,43.81238,1,496,True,False,True,False,False
+Toscana,Firenze,Impruneta,Impruneta - Lungo l'autostrada A1 tra Firenze e Certosa,25,9,1973,Flow,11.20306,43.72558,1,497,True,False,False,False,False
+Toscana,Firenze,Pontassieve,Pontassieve,17,6,1986,Debris flow,11.44127,43.77672,1,498,True,False,False,False,False
+Toscana,Firenze,Tavarnelle Val di Pesa,San Donato in Poggio - Lungo il raccordo autostradale Firenze-Siena,23,3,1970,Complex,11.23675,43.53705,1,499,False,False,False,True,False
+Toscana,Pisa,Palaia,Alica,19,5,1988,Fall,10.7259,43.59962,1,501,False,True,True,True,False
+Toscana,Arezzo,Castel Focognano,Molino dei Forti - Lungo la strada Rassina-Pratomagno,18,2,1960,Sliding,11.78809,43.65489,1,502,True,False,False,True,False
+Toscana,Arezzo,Chiusi della Verna,Badia Prataglia - Lungo la SS n. 71,13,10,1991,Fall,11.88972,43.79672,1,503,True,False,False,False,False
+Toscana,Arezzo,Chiusi della Verna,La Verna - La Rupe,12,3,1997,Fall,11.93156,43.70823,1,504,False,False,False,False,True
+Toscana,Arezzo,Loro Ciuffenna,Gorgiti,30,10,1992,Debris flow,11.62247,43.63679,1,505,True,True,True,False,False
+Toscana,Siena,Radicondoli,La Fornace - Bivio Anqua (tra le due località lungo la SP n. 35 dal km 0+700 al km 3+200),13,1,1997,Flow,10.99382,43.21787,2,506,True,True,True,True,False
+Toscana,Prato,Cantagallo,Carmignanello - Villa Edelmann,8,2,1997,Fall,11.14106,43.99941,1,507,False,False,False,True,False
+Toscana,Prato,Prato,Prato - Borgo Valsugana,14,10,1993,Flow,11.09407,43.88517,1,508,False,False,False,False,True
+Toscana,Prato,Vaiano,La Briglia - Lungo la SS n. 325 verso Santa Lucia,4,1,1997,Fall,11.1264,43.93661,2,509,True,True,True,True,False
+Umbria,Perugia,Assisi,Pieve San Nicolò - Lungo la strada principale del paese,26,3,1992,Sliding,12.61908,43.12871,1,510,True,False,False,False,False
+Umbria,Perugia,Assisi,Casacce - Sasso,18,2,1963,Sliding,12.65559,43.15252,2,511,True,False,False,True,False
+Umbria,Perugia,Assisi,San Gregorio,25,2,1963,Sliding,12.54948,43.13762,1,512,True,True,True,True,False
+Umbria,Perugia,Bettona,Bettona - Cimitero,12,6,1985,Sliding,12.49534,43.01177,2,513,False,False,False,False,True
+Umbria,Perugia,Cerreto di Spoleto,Borgo Cerreto - Lungo la SS n. 209 della Valnerina verso Piedipaterno,9,3,1995,Fall,12.91515,42.81462,1,515,True,True,True,True,False
+Umbria,Perugia,Cerreto di Spoleto,"Galleria \Centrale del Corno\"" - Lungo la SS n. 320 tra Triponzo e Biselli""",24,10,1998,Fall,12.94565,42.81703,1,516,False,False,False,False,True
+Umbria,Perugia,Citerna,Citerna - Lungo la circonvallazione,6,2,1968,Fall,12.11546,43.50009,1,517,False,False,False,False,True
+Umbria,Perugia,Città della Pieve,San Biagio,4,5,1983,Flow,12.01409,42.9882,1,518,False,False,False,False,True
+Umbria,Perugia,Città della Pieve,Case Trevinano,11,5,1975,Sliding,12.02215,42.99858,1,519,False,False,False,True,False
+Umbria,Perugia,Città di Castello,Trestina - Torrente Seano,17,11,1996,Fall,12.23794,43.37078,2,520,True,False,False,False,False
+Umbria,Perugia,Corciano,Mantignana,19,7,1955,Fall,12.28948,43.15944,1,522,False,False,False,False,True
+Umbria,Perugia,Costacciaro,Costa San Savino - Lungo la SC del Buzzacchero,22,11,1985,Sliding,12.68488,43.39379,1,523,True,False,False,False,False
+Umbria,Perugia,Costacciaro,Costacciaro - Lungo la strada di Monte Cucco,1,2,1986,Fall,12.72438,43.35902,1,524,True,False,False,False,False
+Umbria,Perugia,Foligno,Abbazia di Sassovivo - Lungo la strada che va a Casale (a due Km dall'Abbazia),3,4,1996,Fall,12.76335,42.95749,2,527,True,False,False,False,False
+Umbria,Perugia,Gualdo Tadino,Gola della Rocchetta,7,11,1997,Fall,12.80504,43.22972,3,525,True,False,False,False,False
+Umbria,Perugia,Gubbio,Gubbio - Zona nei pressi del Duomo,23,3,1986,Fall,12.58153,43.35493,1,528,True,False,True,True,False
+Umbria,Perugia,Gubbio,Carpiano - C. Sterpaiolo - Monte Urbino,1,1,1958,Sliding,12.52659,43.25591,1,529,False,False,False,False,True
+Umbria,Perugia,Gubbio,Gubbio - Lungo la SS n. 452 della Contessa al km 1+500,21,11,1993,Fall,12.56055,43.37592,1,530,False,False,True,False,False
+Umbria,Perugia,Gubbio,Gubbio - Lungo la SS n. 452 della Contessa,23,10,1993,Fall,12.55795,43.36695,1,531,False,False,False,False,True
+Umbria,Perugia,Gubbio,Gubbio - Lungo la SS n. 452 della Contessa al km 6+200,19,10,1993,Fall,12.58336,43.41316,1,532,False,False,False,False,True
+Umbria,Perugia,Gubbio,Gubbio - Lungo la SS n. 298 per Scheggia vicino all'Eremo di Sant'Ambrosio,28,9,1993,Fall,12.57938,43.3597,1,533,False,False,False,False,True
+Umbria,Perugia,Gubbio,Torre Calzolari - C. Torre Alta,1,1,1982,Debris flow,12.66622,43.2964,1,534,True,True,True,False,False
+Umbria,Perugia,Gubbio,Castellano di Goregge,17,1,1983,Sliding,12.45997,43.32086,2,535,False,False,False,False,True
+Umbria,Perugia,Gubbio,Polverino di Serra Brunamonti,17,1,1983,Debris flow,12.64232,43.26401,2,535,False,False,False,False,True
+Umbria,Perugia,Gubbio,Padule - Lungo la SP di Pian D'Assino,6,1,1997,Fall,12.61433,43.32471,1,536,True,True,True,True,False
+Umbria,Perugia,Gubbio,Gola del Bottaccione - Lungo la SS n. 298 Eugubina nel tratto Gubbio-Scheggia,30,8,1999,Fall,12.57762,43.35912,1,537,True,False,False,False,False
+Umbria,Perugia,Gubbio,Gubbio - Lungo la SS n. 298 Eugubina per Scheggia (appena fuori dalle mura della città),1,1,1997,Fall,12.57676,43.35835,1,538,True,True,True,True,False
+Umbria,Perugia,Magione,Agello,6,3,1986,Sliding,12.23722,43.06958,1,539,True,False,False,False,False
+Umbria,Perugia,Montefalco,Osteria San Marco,15,3,1979,Sliding,12.60743,42.8946,1,540,False,False,False,True,False
+Umbria,Perugia,Montone,Montone,16,11,1963,Fall,12.32674,43.36455,1,541,False,False,False,False,True
+Umbria,Perugia,Nocera Umbra,SC Parrano - Isola,18,10,1983,Sliding,12.77911,43.14276,1,542,True,False,False,False,False
+Umbria,Perugia,Panicale,Case Paolinami,31,8,1984,Sliding,12.14132,43.01802,1,543,False,False,False,False,True
+Umbria,Perugia,Panicale,Macereto - Fosso Macereto,1,11,1982,Sliding,12.13932,42.99056,1,544,False,False,False,False,True
+Umbria,Perugia,Perugia,Montebello,15,4,1957,Sliding,12.40298,43.07693,1,545,True,True,False,True,False
+Umbria,Perugia,Perugia,Ponte San Giovanni,15,2,1960,Sliding,12.44733,43.09242,1,546,True,False,False,True,False
+Umbria,Perugia,Perugia,Perugia - Cava della Breccia,25,3,1978,Sliding,12.42055,43.11972,1,547,True,True,True,True,False
+Umbria,Perugia,Perugia,Perugia - Lungo la strada della Trinità,22,9,1996,Fall,12.32863,43.11166,1,548,True,False,True,False,False
+Umbria,Perugia,Perugia,San Fortunato della Collina,11,2,1963,Sliding,12.3881,43.05499,1,549,True,False,False,True,False
+Umbria,Perugia,Perugia,Ponte San Giovanni - Galleria San Martinello (lungo la linea FS Foligno-Terontola),21,2,1963,Sliding,12.39234,43.06307,1,550,True,True,True,True,False
+Umbria,Perugia,Perugia,Perugia - Via Maitani,4,2,1970,Sliding,12.40201,43.11712,1,551,True,False,False,False,False
+Umbria,Perugia,Preci,Castelvecchio,15,12,1984,Sliding,13.02088,42.89161,1,552,False,False,False,False,True
+Umbria,Perugia,Preci,Cervara - Lungo la SS della Valnerina,20,2,1986,Fall,13.01195,42.89764,1,553,True,True,False,False,False
+Umbria,Perugia,Sant'Anatolia di Narco,Sant'Anatolia di Narco - Lungo la strada Caso - Gavelli - Fosso del Miracolo,18,8,1969,Fall,12.8876,42.70147,1,554,False,False,False,False,True
+Umbria,Perugia,Scheggia e Pascelupo,Isola Fossara,1,3,1986,Sliding,12.73875,43.43422,1,555,True,True,True,False,False
+Umbria,Perugia,Scheggino,Lo Schioppo,28,9,1996,Fall,12.79751,42.69398,2,556,False,True,False,False,False
+Umbria,Perugia,Sellano,Sellano - Zona campo sportivo,11,1,1983,Complex,12.92347,42.88847,1,557,False,False,False,False,True
+Umbria,Perugia,Sellano,Postignano - Casamaccio,14,4,1978,Sliding,12.91614,42.86746,1,558,True,False,True,True,False
+Umbria,Perugia,Spoleto,Monteluco - Eremo di San Pietro,1,10,1984,Fall,12.75292,42.72315,1,559,True,True,True,False,False
+Umbria,Perugia,Todi,Todi - Viale della Fabbrica (zona mattatoio),23,6,1984,Complex,12.40883,42.78601,1,560,False,False,False,True,False
+Umbria,Perugia,Todi,Todi - Cimitero Nuovo,1,5,1985,Sliding,12.40741,42.78999,1,561,False,False,False,False,True
+Umbria,Perugia,Todi,Todi - C. Cascianelli,28,12,1982,Sliding,12.42439,42.76984,1,562,False,True,False,False,False
+Umbria,Perugia,Torgiano,Torgiano,13,9,1970,Sliding,12.43445,43.02657,1,563,False,False,False,False,True
+Umbria,Perugia,Tuoro sul Trasimeno,Linea FS Foligno-Terontola al km 77+436 - presso la Galleria di Monte Gualandro,13,1,1963,Flow,12.05075,43.19149,1,564,True,True,True,True,False
+Umbria,Perugia,Umbertide,Preggio - Lungo la SP per Umbertide,9,11,1997,Fall,12.24996,43.25033,1,565,True,True,True,False,False
+Umbria,Perugia,Vallo di Nera,Piedipaterno,5,11,1982,Fall,12.86445,42.7706,1,566,False,False,False,False,True
+Umbria,Perugia,Vallo di Nera,Vallo di Nera - Lungo la SS n. 209 della Valnerina nel tratto Borgo Cerreto- Piedipaterno,9,3,1991,Fall,12.88541,42.79225,1,567,False,False,False,False,True
+Umbria,Perugia,Vallo di Nera,Piedipaterno - Borgo Cerreto (tra le due località),29,9,1992,Fall,12.88541,42.79225,1,568,False,False,False,False,True
+Umbria,Perugia,Valtopina,Valtopina - Zona scolastica,1,4,1978,Sliding,12.7548,43.05851,1,570,True,True,True,True,False
+Umbria,Terni,Allerona,Allerona - Le Spiagge,22,2,1985,Sliding,11.94553,42.83553,1,571,False,False,False,False,True
+Umbria,Terni,Allerona,Bargiano,17,6,1986,Sliding,11.96927,42.83769,1,572,True,False,False,False,False
+Umbria,Terni,Amelia,SC di Macchie,15,9,1984,Sliding,12.38552,42.58332,3,573,True,False,False,False,False
+Umbria,Terni,Amelia,Amelia - Lungo la SS n. 205,22,10,1992,Fall,12.41835,42.55329,1,574,True,False,True,False,False
+Umbria,Terni,Amelia,Fornole - Lungo la SS n. 205 Amerina,25,7,1999,Fall,12.45734,42.54357,1,575,False,False,False,False,True
+Umbria,Terni,Amelia,Collicello,30,1,2001,Fall,12.40556,42.61921,1,576,True,False,False,False,False
+Umbria,Terni,Arrone,Castiglioni,21,3,1984,Fall,12.78656,42.57807,1,577,False,False,False,False,True
+Umbria,Terni,Arrone,Monte di Arrone,19,9,1984,Fall,12.77305,42.58703,1,578,True,False,False,False,False
+Umbria,Terni,Arrone,C. Valle Fredda,8,3,1986,Fall,12.77956,42.56475,1,579,False,True,True,False,False
+Umbria,Terni,Baschi,Civitella dei Pazzi,16,4,1983,Fall,12.28153,42.7128,1,580,False,False,True,False,False
+Umbria,Terni,Calvi dell'Umbria,Calvi dell'Umbria - Lungo la SP Calvese,18,9,1997,Fall,12.56573,42.40201,1,581,True,False,False,False,False
+Umbria,Terni,Fabro,Mandria,6,4,1970,Sliding,11.99692,42.85994,1,582,False,False,False,False,True
+Umbria,Terni,Ferentillo,Terria,21,11,1975,Fall,12.83736,42.65991,1,583,True,False,False,False,False
+Umbria,Terni,Ferentillo,Fonte di Gabbio,5,10,1965,Sliding,12.78295,42.6302,1,584,False,False,False,False,True
+Umbria,Terni,Ferentillo,Monterivoso,15,12,1998,Fall,12.8074,42.61706,1,585,False,True,False,False,False
+Umbria,Terni,Ficulle,Olevole - Lungo la SP,5,6,1978,Complex,12.08411,42.86832,1,586,False,False,True,True,False
+Umbria,Terni,Guardea,Guardea - Via del Fossato,10,4,1983,Sliding,12.29672,42.62652,1,587,False,True,False,False,False
+Umbria,Terni,Narni,Stifone - A monte dell'abitato,28,9,1965,Fall,12.49576,42.49681,1,588,True,False,False,False,False
+Umbria,Terni,Narni,Narni - Nei pressi del raccordo tra la SS Tiberina e la SS Ortana,10,8,1977,Fall,12.51616,42.51185,1,589,False,False,False,False,True
+Umbria,Terni,Narni,Recentino - Lungo la SS Ortana al km 42+700 (vicino alla centrale idroelettrica di Narni),16,5,1991,Fall,12.51389,42.5057,1,590,False,True,True,True,False
+Umbria,Terni,Narni,Narni - Grotta sottostante la SS Tiberina all'altezza del Ponte di Augusto,24,4,2000,Fall,12.51454,42.52792,1,591,False,False,True,False,False
+Umbria,Terni,Orvieto,Orvieto - Rocca Ripesena,12,12,1993,Fall,12.07036,42.72393,1,592,False,False,True,True,False
+Umbria,Terni,Orvieto,Orvieto - Rocca Ripesena - Fosso Fontana,29,6,1991,Fall,12.07036,42.72393,1,593,False,False,False,False,True
+Umbria,Terni,Orvieto,Tordimonte,28,11,1975,Fall,12.17665,42.69724,1,594,True,False,False,False,False
+Umbria,Terni,Orvieto,Baschi Scalo - Lungo la linea FS Firenze-Roma,3,2,1986,Fall,12.20418,42.68828,1,595,True,False,False,False,False
+Umbria,Terni,Orvieto,Orvieto - Zona Confaloniera,15,9,1984,Fall,12.11416,42.72297,3,573,True,False,False,False,False
+Umbria,Terni,Orvieto,Orvieto - Zona Confaloniera,22,8,1980,Fall,12.11416,42.72297,1,596,False,False,False,False,True
+Umbria,Terni,Orvieto,Orvieto - Zona Confaloniera,28,1,1981,Fall,12.11416,42.72297,1,597,False,False,False,False,True
+Umbria,Terni,Orvieto,Orvieto - Cannicella,14,2,1984,Sliding,12.11008,42.71358,1,598,False,False,False,False,True
+Umbria,Terni,Orvieto,Orvieto,17,9,1985,Fall,12.11347,42.71979,1,599,False,False,False,False,True
+Umbria,Terni,Orvieto,Orvieto - Lungo la SC di Corbara al km 7,2,1,2001,Fall,12.22801,42.70739,1,600,False,False,False,False,True
+Umbria,Terni,Otricoli,Otricoli - Scuola Elementare,20,11,1979,Sliding,12.47817,42.42094,1,601,True,False,False,False,False
+Umbria,Terni,San Gemini,Colle Pizzuto - Lungo il corso del T. Cerreta,15,2,1966,Complex,12.52169,42.61668,1,602,True,False,False,True,False
+Umbria,Terni,San Gemini,San Gemini - Lungo la Strada Tuderte,9,1,1963,Sliding,12.55186,42.62082,2,603,True,True,True,True,False
+Umbria,Terni,Terni,Cascata delle Marmore -  Toro,5,2,1986,Fall,12.71349,42.55207,1,604,True,False,False,False,False
+Umbria,Terni,Terni,Cesi,8,10,1965,Fall,12.58667,42.61018,1,605,False,False,False,False,True
+Umbria,Terni,Terni,Cervara,3,1,1986,Fall,12.68312,42.55975,1,606,True,False,False,False,False
+Umbria,Terni,Terni,Terni - Lungo la SS n. 79 dal km 17+000 al km 18+800,1,5,1960,Fall,12.69163,42.54519,1,607,True,True,True,True,False
+Umbria,Terni,Terni,Terni - Lungo la SP Valdiserra per Rocca San Zenone,4,5,1998,Fall,12.67679,42.58643,1,608,True,False,True,False,False
+Umbria,Terni,Avigliano Umbro,Santa  Restituta,16,11,1976,Fall,12.34426,42.64523,1,609,True,True,True,True,False
+Marche,Pesaro e Urbino,Acqualagna,Furlo,1,12,1984,Fall,12712,43.63919,1,610,True,False,False,False,False
+Marche,Pesaro e Urbino,Acqualagna,"Furlo - Lungo la SS n. 3 \Flaminia\""""",23,12,1994,Fall,12.71196,43.63726,1,611,True,False,False,False,False
+Marche,Pesaro e Urbino,Cagli,Pianello di Cagli - Pietralunga (tra le due località lungo la SP n. 29),9,4,2001,Fall,12.53577,43.50587,1,612,False,True,False,False,False
+Marche,Pesaro e Urbino,Fermignano,Passo del Furlo - Lato nord della Galleria Romana lungo la vecchia SS Flaminia,11,5,1996,Fall,12.73107,43.65544,1,613,False,True,False,False,False
+Marche,Pesaro e Urbino,Sassocorvaro,Sassocorvaro,28,1,1952,Sliding,12.4951,43.78261,1,615,True,True,False,False,False
+Marche,Ancona,Ancona,Ancona - Spiaggia del Passetto,1,10,1981,Fall,13.54163,43.61108,1,616,True,False,False,False,False
+Marche,Ancona,Ancona,Ancona - Rupe del Passetto,3,9,1991,Fall,13.53813,43.61219,1,618,False,False,False,False,True
+Marche,Ancona,Ancona,Ancona - Rupe del Passetto,27,12,1982,Fall,13.53813,43.61219,1,619,True,True,True,False,False
+Marche,Ancona,Ancona,Gallignano,8,1,1953,Complex,13.42546,43.56442,2,620,True,True,True,True,False
+Marche,Ancona,Ancona,Ancona - Galleria del Risorgimento,11,5,1965,Fall,13.51534,43.61199,1,624,False,False,False,False,True
+Marche,Ancona,Ancona,Sappanico - Montesicuro,8,1,1953,Sliding,13.45517,43.55677,2,620,True,True,True,True,False
+Marche,Ancona,Ancona,Ancona - Rione Santo Stefano (Via Raffaello Sanzio),16,12,1959,Sliding,13.50509,43.60926,1,625,True,False,False,False,False
+Marche,Ancona,Ancona,Ancona - Via del Castellano,19,9,1996,Flow,13.51662,43.61791,1,626,True,False,True,False,False
+Marche,Ancona,Corinaldo,Corinaldo,23,2,1963,Sliding,13.04711,43.65109,2,627,True,True,True,True,False
+Marche,Ancona,Fabriano,Fabriano - Lungo la linea ferroviaria Orte-Falconara dal km 225+600 al km 226+200,20,9,1990,Sliding,12.91719,43.35746,1,628,True,False,False,False,False
+Marche,Ancona,Genga,San Vittore - Lungo la SP di Frasassi,29,1,1973,Sliding,12.97103,43.40286,1,629,True,False,False,False,False
+Marche,Ancona,Maiolati Spontini,Moie - Via Fonde,21,2,1963,Sliding,13.12978,43.50363,1,630,True,False,False,True,False
+Marche,Ancona,Ostra Vetere,Ostra Vetere - Versante nord-occidentale dell'abitato,6,3,1965,Sliding,13.05606,43.60668,1,633,False,False,False,False,True
+Marche,Ancona,Polverigi,Polverigi,19,12,1963,Fall,13.39529,43.52586,1,634,True,False,False,False,False
+Marche,Ancona,Ripe,Ripe,27,2,1956,Complex,13.10589,43.6725,1,635,True,False,False,False,False
+Marche,Ancona,Serra San Quirico,Gola della Rossa,2,11,1962,Fall,12.99961,43.43184,1,636,True,False,False,False,False
+Marche,Ancona,Serra San Quirico,Gola della Rossa - Lungo la SS n. 76,17,1,1954,Fall,12.99788,43.43009,1,637,True,False,False,False,False
+Marche,Ancona,Serra San Quirico,Monte Murano - Ingresso galleria della Superstrada per Fabriano,17,12,1992,Fall,13.01237,43.43287,1,638,False,False,False,False,True
+Marche,Macerata,Fiordimonte,SP n. 99 tra Ponte La Trave e Fiordimonte,10,2,1999,Fall,13.08754,43.04033,1,639,True,False,False,False,False
+Marche,Macerata,Fiuminata,Fiuminata - Piazza della Vittoria,4,1,1997,Fall,12.93302,43.18962,4,521,False,False,False,False,True
+Marche,Macerata,Mogliano,Mogliano,20,2,1979,Sliding,13.47916,43.18684,1,640,True,True,True,True,False
+Marche,Macerata,Pioraco,Pioraco - Lungo la SC per Seppio,28,2,1951,Sliding,12.99519,43.17757,1,641,True,True,True,False,False
+Marche,Macerata,Potenza Picena,Porto Potenza - Zona sud alla confluenza tra Via Lombardia e Via Liguria,31,8,1996,Flow,13.62056,43.36745,1,642,True,False,True,False,False
+Marche,Macerata,Visso,Visso - Via Macereto,12,12,1990,Fall,13.08673,42.93199,1,643,True,True,False,False,False
+Marche,Macerata,Visso,Visso - Lungo la SS della Valnerina,12,5,1996,Fall,13.06845,42.93069,1,644,True,True,False,False,False
+Marche,Ascoli Piceno,Acquasanta Terme,Quintodecimo - Lungo la SS n. 4 Salaria,14,1,2001,Fall,13.38539,42.76447,1,645,True,False,False,False,False
+Marche,Ascoli Piceno,Acquasanta Terme,Quintodecimo,8,11,1999,Fall,13.38489,42.76315,1,646,True,False,False,False,False
+Marche,Ascoli Piceno,Acquasanta Terme,Acquasanta - Dopo il bivio per Arola,23,11,1997,Fall,13.41039,42.77179,1,647,True,True,True,False,False
+Marche,Ascoli Piceno,Amandola,"Amandola (Comune di) - Lungo la SS n. 78 \Picena\"" dal km 49+600 al km 51+700""",9,4,1992,Flow,13.3955,42.96159,5,569,True,True,False,False,False
+Marche,Ascoli Piceno,Arquata del Tronto,"Trisungo - Lungo la SS n. 4 \Salaria\""""",1,12,1996,Fall,13.3135,42.77598,1,648,True,True,False,False,False
+Marche,Ascoli Piceno,Arquata del Tronto,"Trisungo - Lungo la SS n. 4 \Salaria\""""",14,6,1994,Fall,13.3135,42.77598,1,649,True,False,False,False,False
+Marche,Ascoli Piceno,Arquata del Tronto,Trisungo - All'ingresso dell'abitato (direzione Roma),17,9,1998,Fall,13312,42.77612,1,650,True,False,False,False,False
+Marche,Ascoli Piceno,Arquata del Tronto,Colle di Arquata,29,10,2000,Fall,13.31007,42731,1,651,False,False,False,False,True
+Marche,Ascoli Piceno,Ascoli Piceno,Ascoli Piceno - Monte Rocco (a 4 km dal capoluogo),24,11,1991,Fall,13.54963,42.8737,1,652,True,True,False,False,False
+Marche,Ascoli Piceno,Ascoli Piceno,San Pietro,29,3,1993,Fall,13.59266,42.83425,1,653,True,False,False,False,False
+Marche,Ascoli Piceno,Ascoli Piceno,Ascoli Piceno - Zona sotto  i Mulini in via Ariosto,9,4,1999,Fall,13.5695,42.85602,1,654,True,False,False,False,False
+Marche,Ascoli Piceno,Ascoli Piceno,"Ascoli Piceno - Lungo \Rete li mierghie\"" (passeggiata che dall’ex chiesetta di Santa Maria delle Stelle porta al ponte Romano di Solestà)""",29,8,1999,Fall,13.5695,42.85602,1,655,True,False,False,False,False
+Marche,Ascoli Piceno,Ascoli Piceno,Colli di Rosara,1,1,1997,Fall,13.54031,42.8399,2,656,True,False,False,False,False
+Marche,Ascoli Piceno,Comunanza,"Comunanza (Comune di) - Lungo la SS n. 78 \Picena\""dal km 59+100 al km 60+250""",9,4,1992,Complex,13.42213,42.91818,5,569,True,True,False,False,False
+Marche,Ascoli Piceno,Fermo,Torre di Palme,5,4,1973,Sliding,13.81198,43.14309,1,657,True,False,False,False,False
+Marche,Ascoli Piceno,Fermo,Fermo - Scarpata del Grifalco,5,5,2001,Fall,13.71527,43.16286,1,658,False,False,False,False,True
+Marche,Ascoli Piceno,Folignano,Castelfolignano,2,7,1997,Fall,13.64087,42.81749,1,659,False,False,False,False,True
+Marche,Ascoli Piceno,Roccafluvione,Scalelle - Lungo la SP per la SS Piceno-Aprutina,18,10,1996,Fall,13.41789,42.82773,1,660,False,False,True,True,False
+Marche,Ascoli Piceno,Roccafluvione,"Roccafluvione (Comune di) - Lungo la SS n. 78 \Picena\"" dal km 76+800 al km 77+980""",9,4,1992,Fall,13.49614,42.83263,5,569,True,True,False,False,False
+Lazio,Viterbo,Bagnoregio,Civita di Bagnoregio,19,12,1996,Fall,12.11477,42.62909,1,661,False,False,True,False,False
+Lazio,Viterbo,Blera,Blera - Via le Piagge di Sotto,23,11,1997,Fall,12.02732,42.27495,1,662,True,True,True,False,False
+Lazio,Viterbo,Civita Castellana,Civita Castellana - Lungo la SS n. 3 Flaminia,10,1,1983,Fall,12.44546,42.27803,1,663,False,False,False,False,True
+Lazio,Viterbo,Civita Castellana,Civita Castellana - Ponzano (tra le due località lungo la linea ferroviaria Roma-Viterbo),7,10,2000,Fall,12.43255,42.29529,1,664,False,False,False,False,True
+Lazio,Viterbo,Montefiascone,Montefiascone - Via Solferino della Battaglia,9,11,1997,Fall,12.03412,42.54045,1,665,True,False,False,False,False
+Lazio,Viterbo,Orte,Orte,21,4,1978,Sliding,12.38709,42.46159,1,666,False,True,True,True,False
+Lazio,Viterbo,Soriano nel Cimino,Soriano nel Cimino - Lungo la SP della Molinella verso Chia,9,1,1997,Fall,12.25685,42.43994,1,667,True,True,True,True,False
+Lazio,Viterbo,Soriano nel Cimino,Soriano nel Cimino - Lungo la SP per Vitorchiano all'altezza del Ponte del Bersaglio,25,9,1999,Fall,12.20567,42.44189,1,668,True,False,False,False,False
+Lazio,Rieti,Magliano Sabina,Magliano Sabina - Circonvallazione,26,11,1987,Debris flow,12.48053,42.36271,1,669,True,True,True,False,False
+Lazio,Rieti,Micigliano,Micigliano - Lungo la SS n. 4 Salaria nei pressi del bivio per l'abitato,3,9,2000,Fall,13.07506,42.4428,1,670,False,False,False,False,True
+Lazio,Rieti,Rieti,Rieti - Via Lugnano,13,8,1996,Fall,12.92732,42.43412,1,671,False,False,False,False,True
+Lazio,Rieti,Rieti,Rieti - Terminillo (tra le due località lungo la SS n. 4 bis),2,9,1958,Sliding,12.94002,42.45792,1,672,False,False,False,False,True
+Lazio,Rieti,Rieti,Casette - Lungo la SS n. 578 Salto-Cicolana dopo la località in direzione Grotti,31,3,2000,Fall,12.90996,42.38229,1,673,True,True,False,False,False
+Lazio,Rieti,Rieti,Rieti - Lungo la strada tra il quartiere Borgo e Fonte Cottorella,27,12,2000,Fall,12.86381,42.39373,1,674,True,False,False,False,False
+Lazio,Rieti,Rieti,Roccaranieri,28,12,1999,Fall,12.96618,42.33433,1,675,True,True,True,False,False
+Lazio,Roma,Bellegra,Colanicchio,19,2,1986,Sliding,13.01161,41.89807,1,676,True,False,True,False,False
+Lazio,Roma,Castelnuovo di Porto,Castelnuovo di Porto,25,3,1958,Fall,12.50209,42.12618,1,677,False,True,True,False,False
+Lazio,Roma,Cave,Cave,29,4,1978,Complex,12.93348,41.82033,1,678,True,False,False,True,False
+Lazio,Roma,Cerreto Laziale,Gerano - Cerreto Laziale - Rocca Canterano - Canterano (tra le località lungo la SS Empolitana),11,3,2000,Fall,12.98854,41.94341,1,679,False,False,False,False,True
+Lazio,Roma,Cerveteri,Cerveteri - Frati,4,12,2000,Sliding,12.09913,42.00022,1,680,False,False,True,True,False
+Lazio,Roma,Fiano Romano,Fiano Romano - Lungo la A1 del Sole,5,3,1965,Sliding,12.60299,42.18265,1,682,True,False,False,True,False
+Lazio,Roma,Formello,Formello,18,1,1980,Fall,12.40206,42.08069,1,683,True,True,True,True,False
+Lazio,Roma,Frascati,Frascati,14,5,1959,Fall,12.68113,41.80931,2,684,False,False,False,False,True
+Lazio,Roma,Genazzano,Gennazzano - Presso la stazione,8,3,1969,Fall,12.9718,41.82642,1,685,True,True,True,True,False
+Lazio,Roma,Grottaferrata,Grottaferrata - Lungo la SP Anagnina-Tuscolo,11,11,1999,Fall,12.6555,41.7973,1,686,True,False,False,False,False
+Lazio,Roma,Labico,Labico - Lungo la SS n. 6 Casilina al km 39,29,12,1964,Flow,12.89214,41.78396,1,687,True,True,False,True,False
+Lazio,Roma,Lanuvio,Lanuvio,26,4,1959,Sliding,12.69794,41.67569,1,688,False,False,True,False,False
+Lazio,Roma,Marino,Frattocchie - Lungo la SS n. 7 Appia,14,5,1959,Sliding,12.61693,41.76828,2,684,False,False,False,False,True
+Lazio,Roma,Morlupo,Morlupo,9,2,1953,Sliding,12.50783,42.14347,1,689,False,False,False,False,True
+Lazio,Roma,Morlupo,Morlupo,3,3,1956,Fall,12.50783,42.14347,1,690,False,False,False,True,False
+Lazio,Roma,Nemi,Nemi - Lago di Nemi,11,10,1992,Debris flow,12.69727,41.71797,2,691,True,True,False,False,False
+Lazio,Roma,Rignano Flaminio,Rignano Flaminio,16,11,1962,Fall,12.4834,42.20972,1,692,True,True,True,False,False
+Lazio,Roma,Rocca di Papa,Rocca di Papa,11,10,1992,Flow,12.70722,41.76307,2,691,True,True,False,False,False
+Lazio,Roma,Rocca Priora,Rocca Priora,17,3,1955,Complex,12.76349,41.79628,1,693,False,False,True,False,False
+Lazio,Roma,Roma,Labaro - Lungo la via Flaminia al km 12,13,4,1965,Fall,12.49487,41.9908,2,696,True,False,False,False,False
+Lazio,Roma,Roma,Labaro - Lungo la SS n. 3 Flaminia al km 12,13,4,1965,Fall,12.49487,41.9908,2,696,True,False,False,False,False
+Lazio,Roma,Roma,Roma,25,5,1958,Fall,12.48379,41.89518,1,697,False,False,False,True,False
+Lazio,Roma,Roma,Roma,4,10,1963,Sliding,12.48379,41.89518,1,698,True,False,False,False,False
+Lazio,Roma,Roma,Roma,8,2,1958,Fall,12.48379,41.89518,1,699,False,False,False,False,True
+Lazio,Roma,Roma,Roma,6,12,1959,Sliding,12.48379,41.89518,2,695,True,True,True,False,False
+Lazio,Roma,Roma,Roma,11,1,1963,Sliding,12.48379,41.89518,1,700,True,True,True,True,False
+Lazio,Roma,Roma,Roma,23,10,1978,Complex,12.48379,41.89518,1,701,False,False,False,False,True
+Lazio,Roma,Roma,Roma,26,8,1973,Complex,12.48379,41.89518,1,702,True,False,False,False,False
+Lazio,Roma,Roma,Roma,13,9,1974,Complex,12.48379,41.89518,1,703,False,False,False,False,True
+Lazio,Roma,Roma,Roma,23,9,1972,Complex,12.48379,41.89518,1,704,False,True,True,False,False
+Lazio,Roma,Roma,Roma,20,8,1963,Fall,12.48379,41.89518,1,705,True,False,False,False,False
+Lazio,Roma,Roma,Roma,2,1,1973,Complex,12.48379,41.89518,1,706,True,False,False,False,False
+Lazio,Roma,Roma,Roma,12,1,1967,Sliding,12.48379,41.89518,1,707,False,False,False,True,False
+Lazio,Roma,Roma,Roma,19,1,1978,Complex,12.48379,41.89518,1,708,True,False,False,False,False
+Lazio,Roma,Roma,Roma,23,12,1963,Fall,12.48379,41.89518,1,709,True,False,False,False,False
+Lazio,Roma,Roma,Roma,30,4,1962,Fall,12.48379,41.89518,1,710,False,False,False,True,False
+Lazio,Roma,Roma,Roma,31,3,1963,Fall,12.48379,41.89518,1,711,True,False,False,True,False
+Lazio,Roma,Roma,Roma,26,4,1972,Complex,12.48379,41.89518,1,712,True,True,True,True,False
+Lazio,Roma,Roma,Roma,10,11,1967,Complex,12.48379,41.89518,1,713,True,True,False,False,False
+Lazio,Roma,Roma,Roma - Acqua Acetosa,1,6,1953,Fall,12.4885,41.94072,1,714,True,False,False,False,False
+Lazio,Roma,Roma,Roma - Circonvallazione Ostiense,21,1,1967,Complex,12.48556,41.86872,1,715,False,False,False,True,False
+Lazio,Roma,Roma,Roma - Circonvallazione Salaria,29,9,1960,Complex,12.51528,41.94123,2,716,False,False,False,False,True
+Lazio,Roma,Roma,Roma - Colle Aventino,14,6,1962,Sliding,12.47933,41.88472,1,717,False,False,False,False,True
+Lazio,Roma,Roma,Roma - Lungotevere Monte Giardino,2,1,1965,Sliding,12.46218,41.92707,1,718,True,True,False,True,False
+Lazio,Roma,Roma,Roma - Magliana (lungo la linea ferroviaria viadotto Fiumicino),14,7,1963,Fall,12.39161,41.82356,1,719,False,False,False,False,True
+Lazio,Roma,Roma,Roma - Monte Mario,25,1,1973,Fall,12.44987,41.92684,1,720,True,True,False,False,False
+Lazio,Roma,Roma,Roma - Parioli,15,1,1960,Sliding,12.48405,41.93119,1,721,True,False,True,True,False
+Lazio,Roma,Roma,Roma - Pietralata,24,5,1960,Debris flow,12.57155,41.92602,1,722,False,False,False,True,False
+Lazio,Roma,Roma,Roma - San Basilio,8,11,1958,Sliding,12.58375,41.93972,1,723,False,False,False,False,True
+Lazio,Roma,Roma,Roma - Via Arezzo,28,8,1953,Complex,12.51847,41.91245,1,724,True,False,False,False,False
+Lazio,Roma,Roma,Roma - Via Borghetto Prenestino,4,2,1963,Sliding,12.53755,41.89822,1,725,True,False,True,True,False
+Lazio,Roma,Roma,Roma - Via Castro dei Volsci,15,1,1978,Complex,12.53345,41.86623,1,726,True,False,False,False,False
+Lazio,Roma,Roma,Roma - Via dei Monti della Farnesina,3,9,1965,Flow,12.4551,41.93862,1,727,True,False,False,False,False
+Lazio,Roma,Roma,Roma - Via G. Guinizelli,14,11,1959,Sliding,12.4597,41.87869,1,728,True,True,False,False,False
+Lazio,Roma,Roma,Roma - Via Pereira,6,4,1978,Complex,12.44039,41.9156,1,729,False,False,False,True,False
+Lazio,Roma,Roma,Roma - Via Trionfale,15,11,1961,Sliding,12.43235,41.93797,2,694,True,True,True,False,False
+Lazio,Roma,Roma,Roma - Via Usodimare,29,3,1968,Complex,12.49574,41.86982,1,730,False,False,True,True,False
+Lazio,Roma,Roma,Roma - Viale Somalia,21,10,1960,Complex,12.51558,41.93774,1,731,True,True,True,False,False
+Lazio,Roma,Roma,Roma - Viale Tiziano,4,4,1972,Complex,12.47187,41.92678,1,732,False,False,False,False,True
+Lazio,Roma,Roma,Tor dè Cenci,14,11,1953,Fall,12.43931,41.7755,1,733,False,False,True,False,False
+Lazio,Roma,San Vito Romano,Vallerano - Vollica (tra le due località lungo la SC),1,12,1996,Sliding,12.98099,41.89764,1,734,True,True,False,False,False
+Lazio,Roma,Segni,Segni (Comune di),18,11,1975,Complex,13.02689,41.6977,4,681,True,False,False,False,False
+Lazio,Roma,Subiaco,San Francesco,10,12,1990,Fall,13.0865,41.92394,1,735,True,False,False,False,False
+Lazio,Roma,Subiaco,Subiaco - Jenne (tra le due località lungo la SP al km 8),18,9,1999,Fall,13.12789,41.94651,1,736,False,False,False,False,True
+Lazio,Roma,Tivoli,Tivoli - Lungo la SS n. 5 Tiburtina al km 35+700,18,11,1975,Fall,12.82667,41.96885,4,681,True,False,False,False,False
+Lazio,Roma,Trevignano Romano,Trevignano Romano - Rocca degli Orsini,24,1,1960,Fall,12.25078,42.15782,1,739,False,False,False,True,False
+Lazio,Roma,Trevignano Romano,Trevignano Romano - Rocca degli Orsini,5,1,1990,Fall,12.25078,42.15782,1,740,False,False,False,False,True
+Lazio,Roma,Trevignano Romano,Trevignano Romano - Rocca degli Orsini,24,1,1962,Fall,12.25078,42.15782,2,738,False,False,False,False,True
+Lazio,Roma,Valmontone,Valmontone,6,2,1972,Debris flow,12.91991,41.77712,2,741,False,False,False,False,True
+Lazio,Roma,Valmontone,Valmontone,6,2,1972,Debris flow,12.91991,41.77712,2,741,False,False,False,False,True
+Lazio,Roma,Velletri,Acqua Lucia - Lungo la SS n. 7 Appia,25,11,1966,Sliding,12.78412,41.68624,1,742,True,True,True,True,False
+Lazio,Latina,Fondi,Fondi (Comune di),19,10,1991,Debris flow,13.43065,41.35942,1,743,True,True,False,False,False
+Lazio,Latina,Formia,Formia - Via Gramsci (collina di Sant'Antonio),19,9,1995,Fall,13.61158,41.26005,1,744,True,False,True,False,False
+Lazio,Latina,Formia,Formia - Via Gramsci (collina di Sant'Antonio),12,8,1996,Fall,13.61158,41.26005,1,745,False,False,False,False,True
+Lazio,Latina,Formia,Pesatore,26,12,1996,Fall,13.61644,41.29485,1,746,True,False,True,True,False
+Lazio,Latina,Formia,Pesatore - Lungo la strada del Redentore,31,7,1996,Fall,13.61644,41.29485,1,747,False,False,False,False,True
+Lazio,Latina,Monte San Biagio,Monte San Biagio,18,10,1966,Debris flow,13.35292,41.35421,1,749,True,True,True,False,False
+Lazio,Latina,Norma,Norma - Lungo la SP Norbana,10,5,2000,Fall,12.96041,41.58811,1,750,False,False,False,False,True
+Lazio,Latina,Priverno,Priverno - Villa Lina,18,12,1995,Fall,13.18326,41.47395,1,751,True,False,False,False,False
+Lazio,Latina,Prossedi,Prossedi - Lungo la SP di collegamento con la SS n. 156 dei Monti Lepini (via S. Lucia),28,2,2001,Fall,13.26182,41.51296,1,752,True,False,False,False,False
+Lazio,Latina,Sezze,Sezze - Latina Scalo (tra le due località lungo la linea ferroviaria),27,4,1978,Sliding,13.00521,41.50651,1,753,False,False,False,True,False
+Lazio,Latina,Sezze,Sezze - Lungo la SP delle Coste,3,10,1996,Fall,13.06353,41.50695,1,754,True,False,True,False,False
+Lazio,Frosinone,Alatri,Alatri - Zona dell'ex stazione ferroviaria,10,2,1999,Fall,13.34549,41.73229,1,756,True,False,False,False,False
+Lazio,Frosinone,Anagni,Anagni,9,5,1974,Sliding,13.16314,41.74379,1,757,True,True,True,True,False
+Lazio,Frosinone,Cassino,Cassino (Comune di),7,2,1983,Sliding,13.82989,41.49565,3,758,True,False,False,False,False
+Lazio,Frosinone,Cassino,Cassino - Lungo la linea ferroviaria Cassino-Napoli,8,2,1983,Debris flow,13.85444,41455,3,758,True,False,False,False,False
+Lazio,Frosinone,Cassino,Montecassino,9,11,1985,Fall,13.81302,41.49216,1,759,True,False,False,False,False
+Lazio,Frosinone,Cervaro,Cervaro (Comune di),24,11,1991,Flow,13.90566,41.48154,1,760,True,True,True,False,False
+Lazio,Frosinone,Falvaterra,Falvaterra,7,9,1974,Sliding,13.52417,41.50527,1,761,False,False,False,False,True
+Lazio,Frosinone,Gallinaro,Gallinaro - Via Vallefredda,11,4,1993,Sliding,13.7989,41.65824,1,762,False,False,False,False,True
+Lazio,Frosinone,San Vittore del Lazio,San Vittore del Lazio - Lungo la SS n. 6 Casilina,26,10,1966,Debris flow,13.9069,41.45448,1,763,True,True,True,False,False
+Abruzzo,L'Aquila,Alfedena,Alfedena - Montagna Spaccata,31,5,1956,Fall,13.99777,41.72017,1,764,False,False,False,False,True
+Abruzzo,L'Aquila,Anversa degli Abruzzi,Anversa degli Abruzzi - Lungo la strada per Scanno,28,12,1999,Fall,13.81661,41.97016,1,765,True,False,False,False,False
+Abruzzo,L'Aquila,Balsorano,Case Alfonsi,15,3,1986,Fall,13.57133,41.76506,1,766,False,False,True,False,False
+Abruzzo,L'Aquila,Balsorano,Case Alfonsi,3,3,1987,Fall,13.57133,41.76506,1,767,False,True,False,False,False
+Abruzzo,L'Aquila,Campo di Giove,Campo di Giove - Lungo la SP n. 12 per Sulmona,2,4,1993,Fall,14.02734,42.01031,1,768,False,False,False,False,True
+Abruzzo,L'Aquila,Caporciano,Caporciano,11,10,1986,Fall,13.67452,42.25104,1,769,False,False,False,False,True
+Abruzzo,L'Aquila,Cappadocia,Petrella Liri,15,4,1986,Fall,13.2855,42.01811,1,770,True,False,False,True,False
+Abruzzo,L'Aquila,Cappadocia,Petrella Liri,19,3,1994,Fall,13.2855,42.01811,1,771,False,False,False,False,True
+Abruzzo,L'Aquila,Cappadocia,"Cappadocia - Lungo la SP \Alto Liri\""""",29,1,2001,Fall,13.2966,42.01336,1,772,False,False,False,False,True
+Abruzzo,L'Aquila,Carsoli,Pietrasecca - Lungo la A24 Roma-L'Aquila,10,4,1994,Fall,13.13094,42.13439,1,773,True,False,False,False,False
+Abruzzo,L'Aquila,Castellafiume,Castellafiume (Monte Arezzo) - Lungo la SP Capistrello-Valle Roveto,3,3,2001,Fall,13.34172,41.9881,1,774,True,False,False,False,False
+Abruzzo,L'Aquila,L'Aquila,Ripa di Bagno,24,2,1987,Flow,13.42416,42.30575,2,775,True,True,False,False,False
+Abruzzo,L'Aquila,Lucoli,Collefracido di Sassa,5,3,1986,Sliding,13.32455,42.32345,2,776,True,True,True,False,False
+Abruzzo,L'Aquila,Opi,Opi,3,9,1984,Fall,13.8306,41.78229,1,777,False,False,False,False,True
+Abruzzo,L'Aquila,Raiano,San Venanzio,19,11,1986,Fall,13.79725,42.11279,1,778,False,False,False,False,True
+Abruzzo,L'Aquila,Roccacasale,Roccacasale - Rupe sopra abitato,29,4,1989,Fall,13.88743,42.1271,1,779,True,False,False,False,False
+Abruzzo,L'Aquila,Scanno,Scanno - Lungo la SS n. 479 dal km 27+950 al km 28+050,2,2,1988,Fall,13.87175,41.92184,1,780,True,False,False,False,False
+Abruzzo,L'Aquila,Scanno,Scanno - Zona fra Le Musa e Carapale,30,8,1985,Fall,13.86468,41.88891,1,781,False,False,False,False,True
+Abruzzo,L'Aquila,Tagliacozzo,Villa San Sebastiano,5,9,1955,Debris flow,13.31139,42.0301,1,782,False,False,False,False,True
+Abruzzo,L'Aquila,Villalago,Diga San Domenico - Lungo la SS n. 479 per Scanno,31,3,1994,Fall,13.82875,41.94861,1,783,False,False,False,False,True
+Abruzzo,Teramo,Campli,Campli,13,3,1973,Sliding,13.6866,42.72761,1,784,True,False,False,False,False
+Abruzzo,Teramo,Castelli,Leomogna,26,1,1987,Fall,13.70985,42.47224,1,785,False,False,False,False,True
+Abruzzo,Teramo,Colledara,Castiglione della Valle,15,4,1986,Flow,13.67731,42.55156,1,786,False,False,False,False,True
+Abruzzo,Teramo,Crognaleto,Contrada Paladini,26,11,1987,Fall,13.46153,42.54292,1,787,True,False,False,False,False
+Abruzzo,Teramo,Crognaleto,Nerito di Crognaleto - Lungo la strada,16,12,1999,Fall,13.47556,42.54687,1,788,True,False,False,False,False
+Abruzzo,Teramo,Pietracamela,Pietracamela - Lungo la strada per Intermesoli,7,9,1951,Fall,13.54999,42.5335,1,789,False,False,False,False,True
+Abruzzo,Teramo,Pietracamela,Pietracamela - Lungo la SP n. 43 per Prati di Tivo,11,10,1996,Fall,13.56794,42.51724,1,790,True,False,True,True,False
+Abruzzo,Pescara,Lettomanoppello,Lettomanoppello - Lungo la SP per Scafa,22,12,1994,Fall,14.02236,42.25355,1,791,False,False,False,False,True
+Abruzzo,Pescara,Pianella,Pianella - Via Santa Lucia,24,3,1986,Sliding,14.05041,42.3981,1,792,True,False,True,True,False
+Abruzzo,Chieti,Montebello sul Sangro,Montebello sul Sangro (Comune di),11,4,1971,Flow,14.32653,41.98829,1,793,True,True,False,False,False
+Abruzzo,Chieti,Casoli,Guarenna - Lungo la SP per Lanciano,10,1,1997,Fall,14.35902,42.13165,1,794,False,False,False,False,True
+Abruzzo,Chieti,Colledimezzo,Colledimezzo,18,4,1973,Sliding,14.38172,41.98596,1,795,True,False,False,True,False
+Abruzzo,Chieti,Pennapiedimonte,Pennapiedimonte,8,3,1965,Fall,14.19451,42.15231,1,797,False,False,False,False,True
+Abruzzo,Chieti,Torricella Peligna,Fallascoso,1,4,1987,Fall,14.24245,42.00527,1,798,True,False,False,False,False
+Abruzzo,Chieti,Vasto,Vasto - Versante orientale dell'abitato,22,11,1955,Fall,14.71501,42.11719,1,799,False,False,False,False,True
+Abruzzo,Chieti,Villa Santa Maria,Villa Santa Maria,6,2,1963,Fall,14.35158,41.95106,1,800,False,True,False,False,False
+Abruzzo,Chieti,Villa Santa Maria,Villa Santa Maria,29,6,1998,Fall,14.35158,41.95106,1,801,False,False,False,False,True
+Molise,Campobasso,Larino,Larino,3,9,1987,Flow,14.91046,41.80188,1,802,False,False,False,False,True
+Molise,Campobasso,Macchia Valfortore,Macchia Valfortore,23,2,1963,Flow,14.91258,41.59385,2,803,False,False,True,True,False
+Molise,Campobasso,Montenero di Bisaccia,Montenero di Bisaccia - Lungo la SP n. 102 (nel versante occidentale dell'abitato),7,3,1994,Fall,14.78,41.96043,1,804,False,False,True,True,False
+Molise,Campobasso,Petacciato,Petacciato - Lungo la SS n. 16 al km 543+100,29,1,1991,Complex,14.85431,42.02659,5,805,False,False,False,False,True
+Molise,Campobasso,Ripalimosani,Contrada Covatta - Lungo la SS Bifernina al km 26 presso il viadotto Pozzillo II,5,5,1997,Flow,14634,41.63417,1,806,False,False,False,False,True
+Molise,Campobasso,Termoli,Termoli - Lungo la linea ferroviaria per Foggia,12,2,1954,Flow,14.92114,42.01647,1,807,False,True,True,False,False
+Molise,Isernia,Agnone,Agnone - Rione Veneziano (Belvedere Ripa),28,8,1998,Fall,14.36682,41.80704,2,808,True,False,False,False,False
+Molise,Isernia,Pescopennataro,Pescopennataro - Lungo la strada Istonia-Sangrina,3,7,1997,Fall,14.29355,41.87585,1,809,False,False,False,False,True
+Molise,Isernia,Pozzilli,Pozzilli,6,10,1998,Fall,14.06198,41.51436,1,810,True,True,False,False,False
+Campania,Caserta,Calvi Risorta,Carpine - Lungo la SP Calvi Risorta-Rocchetta e Croce,8,5,1998,Fall,14.15275,41.22471,1,811,True,False,True,False,False
+Campania,Caserta,Casagiove,Casagiove - Quartiere Coccagna (Colli Tifatini),21,12,1998,Flow,14.30801,41.08769,3,812,True,False,True,True,False
+Campania,Caserta,Caserta,Santa Barbara,20,2,1963,Sliding,14.36224,41.08946,1,813,True,True,True,True,False
+Campania,Caserta,Piana di Monte Verna,Villa Santa Croce - Attoli,13,5,1998,Fall,14.3255,41.19387,1,814,False,False,False,False,True
+Campania,Caserta,Piedimonte Matese,Piedimonte Matese - Lungo la SS n.158 per Castello Matese,20,9,1993,Fall,14.37462,41.36378,1,815,False,False,False,False,True
+Campania,Caserta,Pontelatone,Treglia - Lungo la strada per Salomoni,2,10,1993,Fall,14.26112,41.22487,1,816,True,False,False,False,False
+Campania,Caserta,San Felice a Cancello,San Felice a Cancello - Via Casa Zenca,15,10,1960,Sliding,14.48459,41.01315,1,817,True,False,False,False,False
+Campania,Caserta,San Gregorio Matese,San Gregorio Matese - Lungo la SS n. 158,18,1,1987,Fall,14.37242,41.38763,1,819,True,False,False,False,False
+Campania,Benevento,Apollosa,Apollosa,22,1,1977,Flow,14.69894,41.09333,1,820,False,False,False,True,False
+Campania,Benevento,Apollosa,Taverna di Apollosa - Lungo la linea ferroviaria,4,1,1970,Sliding,14.72421,41.08384,1,821,True,False,True,False,False
+Campania,Benevento,Bonea,Monte Taburno,17,3,1951,Fall,14.60313,41.09339,1,822,False,False,True,True,False
+Campania,Benevento,Cusano Mutri,Cusano Mutri,22,2,1963,Sliding,14.50713,41.33969,2,803,True,True,True,True,False
+Campania,Benevento,Foglianise,Casale Leschito,8,5,2000,Fall,14.66572,41.17085,1,824,False,False,False,False,True
+Campania,Benevento,Sant'Agata dè Goti,Sant'Agata de' Goti,3,1,1980,Fall,14.5047,41.09177,1,825,True,True,False,True,False
+Campania,Benevento,Sant'Agata dè Goti,Sant'Agata de' Goti - Largo Scuola Pia (costone al di sotto della strada Panoramica),3,5,2000,Fall,14.50254,41.09258,1,826,False,False,False,False,True
+Campania,Benevento,Sant'Agata dè Goti,Contrada Riello - Lungo la SP per Frasso Telesino,27,9,1998,Fall,14.52521,41.1139,2,827,True,False,False,False,False
+Campania,Benevento,Sant'Agata dè Goti,Martorano,11,1,1997,Fall,14.50452,41.09078,8,823,True,True,True,True,False
+Campania,Benevento,Tocco Caudio,Friuni - Baracca (tra le località),30,3,1960,Flow,14.6356,41.12781,1,828,True,False,True,True,False
+Campania,Napoli,Cardito,Cardito,30,11,1969,Complex,14.29658,40.94433,1,845,True,True,True,False,False
+Campania,Napoli,Castellammare di Stabia,Scraio,23,11,1966,Flow,14.45136,40.68589,1,849,True,True,True,True,False
+Campania,Napoli,Castellammare di Stabia,"Scraio - Lungo la SS n. 145 \Sorrentina\""""",4,11,1980,Fall,14.45008,40.68737,1,850,False,False,True,False,False
+Campania,Napoli,Castellammare di Stabia,"Castellammare di Stabia-Sorrento - Lungo la SS n. 145 \Sorrentina\""""",4,5,1960,Fall,14.4543,40.69025,1,851,False,False,False,True,False
+Campania,Napoli,Castellammare di Stabia,Castellammare di Stabia-Sorrento - Lungo la SP,21,5,1969,Fall,14.46415,40.69121,1,852,False,False,False,False,True
+Campania,Napoli,Castellammare di Stabia,"Pozzano - Lungo la SS n. 145 \Sorrentina\"" vicino al confine comunale""",3,7,1982,Fall,14.45246,40.68938,1,853,False,False,False,False,True
+Campania,Napoli,Castellammare di Stabia,Castellammare di Stabia - Lungo la SS n. 145 Sorrentina,26,3,1986,Fall,14.47664,40.68917,2,854,False,False,False,True,False
+Campania,Napoli,Castellammare di Stabia,Pozzano - Via Vecchia Pozzano,5,5,1998,Fall,14.46479,40.69272,46,818,True,False,True,False,False
+Campania,Napoli,Castellammare di Stabia,Castellammare di Stabia - Via Acton,30,11,1997,Fall,14.48333,40.69908,1,855,True,False,True,False,False
+Campania,Napoli,Castellammare di Stabia,Castellammare di Stabia - Lungo la SS Sorrentina verso Vico Equense,25,2,1986,Fall,14.45305,40.68869,2,856,True,True,True,True,False
+Campania,Napoli,Napoli,Capodimonte - Vico Carafocchi,24,1,1951,Fall,14.2413,40.87099,1,867,False,False,True,False,False
+Campania,Napoli,Napoli,Chiaiano - Calore di Basso,2,2,1951,Fall,14.21631,40.89321,1,868,True,True,False,False,False
+Campania,Napoli,Palma Campania,Palma Campania - Ai piedi della collina di Castello,22,2,1986,Flow,14.55832,40.85958,2,873,True,True,True,True,False
+Campania,Napoli,Pozzuoli,Pozzuoli - Lungo la SP Montagna Spaccata,14,10,2000,Fall,14.12583,40.86742,1,879,True,True,False,False,False
+Campania,Napoli,San Sebastiano al Vesuvio,San Sebastiano al Vesuvio - Via Palmieri,4,2,1955,Sliding,14.37011,40.84508,1,882,True,True,True,True,False
+Campania,Napoli,Torre del Greco,Santa Maria la Bruna - Lungo la linea ferroviaria,6,7,1960,Fall,14.39279,40.76576,1,886,False,False,False,False,True
+Campania,Avellino,Bagnoli Irpino,Laceno (Montagne del),7,10,1996,Fall,15.09177,40.81187,1,891,True,True,True,False,False
+Campania,Avellino,Calitri,Calitri - Zona Castello,28,12,1965,Sliding,15.44062,40.90185,1,892,False,False,False,False,True
+Campania,Avellino,Conza della Campania,Conza della Campania - Nei pressi della diga sul Fiume Ofanto,23,11,1980,Sliding,15.26419,40.88542,3,893,False,False,False,False,True
+Campania,Avellino,Forino,Preturo,12,1,1997,Flow,14.75523,40.86911,8,823,True,True,True,False,False
+Campania,Avellino,Grottaminarda,Grottaminarda - Lungo la SP n. 90 verso il passo di Mirabella Eclano,12,5,2000,Flow,15.03428,41.0559,1,894,False,False,False,False,True
+Campania,Avellino,Mercogliano,Mercogliano (Via Partenio) - Lungo la ramificazione della SS n. 374 Ospedaletto - Santuario di Montevergine,8,11,1997,Fall,14.74182,40.92573,1,895,True,False,False,False,False
+Campania,Avellino,Montoro Inferiore,Misciano - Costacalda (Monte Cardito),28,8,1998,Flow,14.78516,40.81358,1,896,False,False,False,False,True
+Campania,Avellino,Montoro Superiore,Torchiati - Lungo la linea ferroviaria Salerno-Benvento,1,11,2000,Fall,14.80101,40.82424,1,897,False,False,False,False,True
+Campania,Avellino,Paternopoli,Cieloferrazzo - Lungo la linea ferroviaria Avellino-Rocchetta Sant'Antonio,15,4,1991,Fall,15.00337,40.96425,1,898,True,False,False,False,False
+Campania,Avellino,Summonte,Summonte - Nei pressi del ponte,18,11,1992,Fall,14.74513,40.95258,1,899,True,False,False,False,False
+Campania,Avellino,Taurano,Ciglio - Pietramaula,2,9,1988,Fall,14.63876,40.89392,1,900,False,False,False,False,True
+Campania,Salerno,Bracigliano,Bracigliano - Parte alta dell'abitato,27,9,1998,Flow,14.71294,40.82633,2,827,True,False,False,False,False
+Campania,Salerno,Castelcivita,Castelcivita - Grotta di,4,1,1998,Fall,15.23179,40.49582,1,903,False,False,False,True,False
+Campania,Salerno,Cava dè Tirreni,Vietri sul Mare-Cava de' Tirreni - Lungo l'autostrada A3 Salerno Reggio Calabria,10,3,1998,Fall,14.72536,40.68622,1,904,True,False,False,False,False
+Campania,Salerno,Colliano,Monte Marzano,23,11,1980,Fall,15.30589,40.7396,3,893,False,False,False,False,True
+Campania,Salerno,Corbara,Corbara - Lungo la SP per Chiunzi al km 8+500,23,11,1991,Fall,14.60313,40.72134,2,830,True,True,True,False,False
+Campania,Salerno,Giffoni Valle Piana,Vassi,13,12,1999,Fall,14.94795,40.72447,1,908,True,False,False,False,False
+Campania,Salerno,Magliano Vetere,Costa di Capizzo - Lungo la SP n. 13,20,4,1998,Fall,15.2219,40.35902,1,909,True,False,False,False,False
+Campania,Salerno,Maiori,Santa Tecla - Lungo la strada per Minori,5,8,1998,Fall,14.63785,40.65034,1,914,False,False,False,False,True
+Campania,Salerno,Nocera Inferiore,Nocera Inferiore - Lungo l'Autostrada Salerno-Napoli al km 36+000,6,3,1972,Flow,14.65032,40.73642,1,916,True,False,False,False,False
+Campania,Salerno,Olevano sul Tusciano,Olevano sul Tusciano,16,6,1963,Fall,15.02161,40.65962,1,917,False,False,False,False,True
+Campania,Salerno,Ottati,Ottati - Via XXIV Maggio (costone roccioso),11,10,1998,Fall,15.31628,40.4633,1,918,True,True,False,False,False
+Campania,Salerno,Pellezzano,"Raccordo Avellino-Salerno intersezione con A3 Salerno-Reggio Calabria, presso la galleria di Cologna",11,4,2000,Fall,14.77883,40.72273,1,919,True,False,False,False,False
+Campania,Salerno,Postiglione,Campagna-Petina - Lungo la carreggiata sud dell'Autostrada A3 Salerno-Reggio Calabria al km 48+000,26,12,1993,Fall,15.23746,40.62542,1,921,True,True,True,True,False
+Campania,Salerno,Ravello,Ravello - Lungo la SP per Chiunzi,13,4,1993,Fall,14.61659,40.66155,1,924,False,False,False,False,True
+Campania,Salerno,Ravello,Mulino della Grotta - Lungo la SS n. 373 Castiglione-Ravello,15,11,1980,Fall,14.61353,40.65678,1,925,True,True,True,False,False
+Campania,Salerno,Salerno,Salerno - Lungo la SS n. 18 per Vietri sul Mare,2,12,1993,Fall,14.74108,40.67783,1,926,True,True,True,False,False
+Campania,Salerno,Salerno,Salerno - Lungo la SS n. 18 per Vietri sul Mare,12,3,1980,Fall,14.74108,40.67783,1,927,False,False,False,True,False
+Campania,Salerno,Salerno,Salerno,26,10,1954,Debris flow,14.76019,40.68033,1,928,True,False,False,False,False
+Campania,Salerno,Salerno,Salerno - Via Ligea (sotto il viadotto di Via Gatto),26,11,1996,Fall,14.73819,40.67827,1,929,True,False,False,False,False
+Campania,Salerno,Salerno,Salerno - Via Ligea,22,2,1969,Fall,14.73819,40.67827,1,930,False,False,True,True,False
+Campania,Salerno,San Rufo,San Rufo - Lungo la SS n. 166 dal km 52+000 al km 57+000,2,9,1985,Fall,15.44655,40.42473,1,931,False,False,False,False,True
+Campania,Salerno,Sarno,Sarno - Monte Sarno,5,5,1998,Flow,14.63419,40.83193,46,818,True,False,True,False,False
+Campania,Salerno,Sarno,Sarno - Via Le Noci (Monte Sarno),20,8,1998,Flow,14.63419,40.83193,1,935,False,False,False,False,True
+Campania,Salerno,Tramonti,Tramonti - Presso il Ponte Sant'Antonio,5,11,1954,Sliding,14.64387,40695,1,936,True,False,False,False,False
+Campania,Salerno,Vietri sul Mare,Vietri sul Mare - Lungo la linea ferroviaria Napoli-Salerno,25,3,1969,Fall,14.72488,40.67976,2,937,True,True,True,True,False
+Campania,Salerno,Vietri sul Mare,Vietri sul Mare - Lungo la linea ferroviaria Napoli-Salerno,24,3,1969,Sliding,14.72488,40.67976,2,937,True,True,True,True,False
+Campania,Salerno,Vietri sul Mare,Vietri Sul Mare - Lungo l'Autostrada Napoli-Salerno al km 47+200,8,4,1976,Fall,14.73116,40.6761,1,938,False,False,False,False,True
+Campania,Salerno,Vietri sul Mare,Vietri sul Mare - Lungo la strada che dalla tangenziale porta a Via Ligea,9,1,1996,Fall,14.73345,40.67472,1,939,True,False,True,False,False
+Puglia,Foggia,Rodi Garganico,Rodi Garganico - Lungo  la strada tra Rodi e San Menaio a 2 km dalla stazione di Rodi,20,8,1972,Fall,15.91474,41.93226,1,940,True,False,False,False,False
+Puglia,Foggia,Troia,Troia,13,9,1951,Sliding,15.30929,41.36202,1,941,False,False,False,False,True
+Puglia,Foggia,Volturara Appula,Volturara Appula - Lungo la strada Appulo-Sannitica presso il cimitero,12,1,1953,Complex,15.05885,41.50076,1,943,True,True,True,True,False
+Puglia,Taranto,Castellaneta,Castellaneta (Comune di),16,9,1991,Flow,16.94321,40.6298,1,944,False,False,False,False,True
+Basilicata,Potenza,Campomaggiore,Ruderi - Lungo la SS n. 407 Basentana e la ferrovia Napoli-Taranto,28,3,1973,Sliding,16.07571,40.5494,1,945,True,True,False,True,False
+Basilicata,Potenza,Lavello,Lavello - Strada che collega l'abitato di Lavello allo scalo ferroviario,26,2,1956,Complex,15.77968,41.04167,1,946,True,False,True,False,False
+Basilicata,Potenza,Muro Lucano,Muro Lucano - Via Conserva,9,3,1951,Complex,15.48768,40.75417,1,948,True,False,False,True,False
+Basilicata,Potenza,Pietrapertosa,Pietrapertosa - Lungo la SP n. 13 all'altezza del bivio per l'abitato,14,5,1996,Fall,16.05876,40.53529,1,949,True,False,False,False,False
+Basilicata,Potenza,Rionero in Vulture,Rionero in Vulture - Lungo la strada per Ripacandida,19,3,1954,Complex,15.6832,40.92042,1,950,True,False,False,True,False
+Basilicata,Potenza,San Fele,Ponte Pennazza - Lungo la SP,18,4,1954,Complex,15.54251,40.83352,1,952,True,False,False,False,False
+Basilicata,Potenza,San Fele,San Fele,5,3,1954,Complex,15.54047,40.82202,2,951,True,False,True,True,False
+Basilicata,Potenza,San Fele,San Fele - Versante orientale dell'abitato,16,12,1968,Complex,15.54319,40.82105,1,953,True,False,False,False,False
+Basilicata,Potenza,Senise,Senise - Rione San Pietro,10,3,1985,Sliding,16.29103,40.1441,1,954,True,False,False,False,False
+Basilicata,Potenza,Vietri di Potenza,Vietri di Potenza - Lungo la linea ferroviaria Potenza-Salerno al km 120+400 nei pressi della galleria Botte,1,2,1997,Fall,15.45566,40.61713,1,955,False,False,False,False,True
+Basilicata,Matera,Accettura,Accettura - Lungo la SP n. 209,11,12,1959,Complex,16.14634,40.51428,1,956,False,False,False,False,True
+Basilicata,Matera,Bernalda,Bernalda -  Via Zaccagnini,13,11,1997,Flow,16.68711,40.4096,3,958,True,False,False,False,False
+Basilicata,Matera,Colobraro,Colobraro - Lungo la SS n. 104,4,2,1955,Complex,16.39315,40.17784,1,959,False,True,True,False,False
+Basilicata,Matera,Craco,Santa Maria Giampaolo - Lungo la SS n. 103 al km 155+200,8,1,1970,Complex,16.43737,40.3801,1,960,False,False,True,True,False
+Basilicata,Matera,Ferrandina,Masseria Lobianco,22,1,1958,Complex,16.37833,40.55127,2,961,True,False,False,True,False
+Basilicata,Matera,Ferrandina,Ferrandina - Lungo la SS n. 407 Basentana all'altezza della galleria,23,11,1997,Flow,16.46574,40.52694,1,962,True,False,False,False,False
+Basilicata,Matera,Garaguso,Garaguso - Grassano Scalo (tra le due località lungo la SP n. 277),28,12,1957,Complex,16.23091,40.56297,1,963,False,False,False,False,True
+Basilicata,Matera,Grassano,Grassano - Lungo la SS n. 7,30,12,1957,Flow,16.28968,40.6308,1,964,True,False,True,True,False
+Basilicata,Matera,Grassano,Grassano - Presso il cimitero,20,11,1976,Debris flow,16.27979,40.62937,1,965,True,False,True,False,False
+Basilicata,Matera,Matera,Matera - Via Madonna delle Virtù,31,1,1998,Fall,16.61252,40.66919,1,966,False,False,False,False,True
+Basilicata,Matera,Montalbano Jonico,Montalbano Jonico,12,8,1976,Complex,16.55968,40.29381,1,967,False,False,False,False,True
+Basilicata,Matera,Pisticci,Pisticci - Rione Croci,17,1,1961,Complex,16.55884,40.38907,1,968,True,False,False,False,False
+Basilicata,Matera,Pomarico,Pomarico,3,8,1996,Fall,16.54961,40.51568,1,969,False,False,False,False,True
+Basilicata,Matera,San Mauro Forte,San Mauro Forte - Via Marzocco,15,6,1998,Fall,16.25159,40.48718,1,970,False,False,False,False,True
+Basilicata,Matera,Stigliano,Stigliano - Largo Masaniello,30,1,1996,Fall,16.23059,40.40551,1,971,True,False,False,False,False
+Calabria,Cosenza,Cassano allo Ionio,Cassano allo Ionio - Lungo la SP Cassano-Castrovillari al km 1+350,25,10,1997,Fall,16.30042,39.78813,1,973,True,False,False,False,False
+Calabria,Cosenza,Cosenza,Cosenza - Lungo la strada per Carolei (Via Romualdo Montagna),3,12,1998,Fall,16.24821,39.29059,1,974,True,True,False,False,False
+Calabria,Cosenza,Cosenza,Cosenza - Via Petrarca,17,12,1997,Fall,16.25335,39.29848,1,975,False,False,False,True,False
+Calabria,Cosenza,Guardia Piemontese,Timpa della Scala - Lungo la SS n. 18,25,5,1998,Fall,15.98651,39.45703,1,976,False,False,False,False,True
+Calabria,Cosenza,Longobucco,Longobucco,3,1,1985,Sliding,16.61105,39.4483,1,977,True,True,True,True,False
+Calabria,Cosenza,Longobucco,Longobucco - Via Cittadella (dal costone che si affaccia sul torrente Macrocioli),28,1,2000,Fall,16.61105,39.4483,1,978,True,False,False,False,False
+Calabria,Cosenza,Oriolo,Oriolo - Cimitero di,1,4,1973,Complex,16.4485,40.0543,1,979,True,True,True,True,False
+Calabria,Cosenza,Pietrapaola,Pietrapaola - Lungo la strada,31,8,1999,Fall,16.81649,39.4878,1,981,True,False,False,False,False
+Calabria,Cosenza,Praia a Mare,Praia a Mare - Lungo la linea ferroviaria per Scalea,8,6,1961,Fall,15.78828,39.88241,1,982,False,False,False,False,True
+Calabria,Cosenza,Rogliano,Rogliano - Lungo la strada  variante Lara-Ralli che collega la SS n. 19 con la SS n. 535,28,1,1999,Fall,16.32517,39.18025,1,983,True,False,False,False,False
+Calabria,Cosenza,Rossano,Rossano - Lungo la SS n. 177,8,11,1975,Sliding,16.6487,39.56956,2,984,True,False,False,False,False
+Calabria,Cosenza,San Donato di Ninea,San Donato di Ninea - Via Carlo De Cardona,28,12,2000,Fall,16.04875,39.71293,1,985,True,False,False,False,False
+Calabria,Cosenza,Trebisacce,Trebisacce,9,11,1953,Fall,16.53109,39.86732,1,986,True,True,True,False,False
+Calabria,Catanzaro,Cardinale,Cardinale,18,1,1985,Sliding,16.3881,38.64399,1,987,True,True,True,True,False
+Calabria,Catanzaro,Catanzaro,Gagliano - Lungo la linea ferroviaria (nei pressi della stazione),23,12,1972,Fall,16.56529,38.92219,1,988,True,False,False,False,False
+Calabria,Catanzaro,Catanzaro,Catanzaro - Viale dei Normanni,5,6,1998,Fall,16.59301,38.90646,1,989,False,False,False,False,True
+Calabria,Catanzaro,Catanzaro,Catanzaro - Via  C. Alvaro,13,2,2001,Fall,16.59301,38.90646,1,990,False,False,False,False,True
+Calabria,Catanzaro,Gimigliano,Gimigliano - Quartiere San Giorgio,31,1,1996,Sliding,16.52789,38.97459,1,991,True,False,True,True,False
+Calabria,Catanzaro,Gimigliano,Gimigliano,5,3,1988,Sliding,16.52789,38.97459,1,992,True,False,False,False,False
+Calabria,Catanzaro,Marcellinara,Amato - Galleria di,2,2,1973,Flow,16.48,38.9213,1,993,True,False,True,False,False
+Calabria,Catanzaro,Sant'Andrea Apostolo dello Ionio,Sant'Andrea Apostolo dello Ionio,8,2,1967,Sliding,16.53126,38.62251,1,994,True,False,False,True,False
+Calabria,Catanzaro,Settingiano,Settingiano - Lungo la SS n. 280,1,1,1973,Flow,16.51343,38.91266,1,995,True,True,False,False,False
+Calabria,Catanzaro,Simeri Crichi,Simeri Crichi,24,1,1955,Fall,16.63806,38.95656,1,996,True,False,False,True,False
+Calabria,Catanzaro,Tiriolo,SS n. 19 nel tratto Pratora di Triolo - Catanzaro,3,1,2001,Fall,16.54528,38.90738,1,997,False,False,False,False,True
+Calabria,Reggio di Calabria,Antonimina,Antonimina,4,4,1988,Sliding,16.14864,38.27354,1,998,False,False,False,True,False
+Calabria,Reggio di Calabria,Canolo,Canolo,5,11,1953,Fall,16.20052,38.31664,1,1004,True,True,True,False,False
+Calabria,Reggio di Calabria,Canolo,Canolo,2,12,1951,Fall,16.20052,38.31664,1,1005,False,False,False,False,True
+Calabria,Reggio di Calabria,Galatro,Galatro,8,3,1985,Flow,16.11003,38.4639,2,1006,True,False,False,True,False
+Calabria,Reggio di Calabria,Palizzi,Palizzi - Rocca di,28,12,1989,Fall,15.98785,37.96691,1,1008,True,False,False,False,False
+Calabria,Reggio di Calabria,Reggio di Calabria,Vito Inferiore - Costone di Spartivento,25,5,1995,Fall,15.67657,38.12735,1,1011,False,False,False,False,True
+Calabria,Reggio di Calabria,Reggio di Calabria,Spartivento - Lungo la strada che collega Orti con Archi,3,10,1996,Fall,15.68562,38.14874,2,1010,True,False,False,False,False
+Calabria,Reggio di Calabria,San Pietro di Caridà,San Pier Fedele - Lungo la SS n. 536 d'Acquaro (zona Montagna di San Nicola in pieno centro abitato),7,8,1995,Fall,16.14375,38.52537,1,1012,False,False,False,False,True
+Calabria,Crotone,Belvedere di Spinello,Belvedere di Spinello - Lungo la SS n. 107 al km 5,8,11,1962,Fall,16.93577,39.18462,1,1020,True,True,True,False,False
+Calabria,Crotone,Cotronei,San Marco - Lungo la SP Sberno-Calusia (verso la SS n. 107),5,8,1996,Fall,16.81627,39.16839,1,1021,False,False,False,False,True
+Calabria,Crotone,Cotronei,San Marco - Lungo la SP Sberno-Calusia,5,11,1997,Fall,16.81627,39.16839,1,1022,True,True,True,False,False
+Calabria,Crotone,Crotone,Bivio di Le Castella - Praia Longa (tra le due località lungo la SS n. 106 ionica),30,9,2000,Fall,17.07925,39.05587,1,1023,True,False,False,False,False
+Calabria,Vibo Valentia,Briatico,San Leo - Lungo la SP Briatico-Zungri,6,6,1999,Fall,16.02345,38.72067,1,1024,False,False,False,False,True
+Sicilia,Trapani,San Vito Lo Capo,Macari,28,2,2001,Fall,12.74119,38.1326,1,1027,True,False,False,False,False
+Sicilia,Palermo,Gangi,Gangi - Lungo la strada di accesso alla parte alta dell'abitato,9,12,1996,Fall,14.20523,37.79982,1,1028,True,True,False,False,False
+Sicilia,Palermo,Pollina,Contrada Santa Maria - Lungo la SS n. 113 Palermo-Messina (tra Finale di Pollina e Castelbuono),7,2,1994,Fall,14.12946,38.01838,1,1030,True,False,False,True,False
+Sicilia,Palermo,Scillato,Scillato,22,3,1969,Sliding,13.90572,37.85843,1,1031,True,True,True,True,False
+Sicilia,Messina,Alì Terme,Capo Alì - Lungo la SS n. 114 dal km 21+800 al 23+000,30,9,2000,Fall,15.4397,38.02071,1,1033,False,False,False,False,True
+Sicilia,Messina,Antillo,Antillo,1,1,1973,Fall,15.24657,37.97678,1,1034,True,True,True,True,False
+Sicilia,Messina,Fiumedinisi,Fiumedinisi - Lungo la SP per Nizza di Sicilia nei pressi del Mattatoio comunale,1,12,1999,Fall,15.38328,38.02433,3,1032,True,True,True,False,False
+Sicilia,Messina,Fondachelli-Fantina,Contrada Sant' Antonio - Lungo la strada di collegamento tra Fondachelli e Fantina lungo le sponde del T. Patrì,14,1,2000,Fall,15.18828,37.99718,4,1039,True,False,False,False,False
+Sicilia,Messina,Messina,Cumia - Lungo la strada,31,8,1999,Fall,15.49419,38.17501,1,1048,False,False,False,False,True
+Sicilia,Messina,Militello Rosmarino,Militello Rosmarino - Lungo la SP per Alcara Li Fusi,16,10,1991,Fall,14.67976,38.02924,1,1050,False,False,False,False,True
+Sicilia,Messina,Novara di Sicilia,SS n. 185 di Sella Mandrazzi che collega i comuni di Terme Vigliatore e Giardini Naxos al km 24+00,8,1,1999,Fall,15.12851,38.00442,1,1051,True,False,False,False,False
+Sicilia,Messina,San Piero Patti,San Piero Patti,20,1,1970,Sliding,14.9675,38.05239,1,1053,True,False,False,False,False
+Sicilia,Messina,Santa Domenica Vittoria,Santa Domenica Vittoria,16,8,1998,Fall,14.96353,37.91794,1,1054,False,False,False,False,True
+Sicilia,Messina,Santa Domenica Vittoria,Randazzo - Torazza,29,3,1996,Complex,14.96483,37914,2,1055,False,False,True,True,False
+Sicilia,Agrigento,Agrigento,Agrigento - Via Damareta,5,12,1998,Fall,13.57933,37.31412,1,1062,True,False,False,False,False
+Sicilia,Agrigento,Agrigento,Agrigento - A sud dell'abitato,28,3,1973,Sliding,13.57603,37.30873,1,1063,True,True,True,True,False
+Sicilia,Agrigento,Agrigento,Agrigento - Lungo la SS n. 118,16,10,1970,Fall,13.58155,37.32199,1,1064,True,False,False,False,False
+Sicilia,Agrigento,Agrigento,Agrigento - Rupe Atenea (a nord della città dei Templi),6,11,1995,Fall,13.59719,37.30932,1,1065,True,False,False,False,False
+Sicilia,Agrigento,Canicattì,Canicattì,31,12,1984,Sliding,13.8484,37.36066,1,1067,True,True,False,True,False
+Sicilia,Agrigento,Menfi,Menfi,11,11,1957,Flow,12.96551,37.60313,1,1077,True,True,True,False,False
+Sicilia,Agrigento,Naro,Naro,18,2,1967,Sliding,13.79178,37.29876,1,1078,True,False,False,True,False
+Sicilia,Agrigento,San Biagio Platani,San Biagio Platani,30,1,1979,Sliding,13.52511,37.51104,1,1079,False,False,True,False,False
+Sicilia,Caltanissetta,Caltanissetta,Caltanissetta - Lungo la SS per Serradifalco,16,1,1985,Fall,14.0116,37.48332,3,1083,True,False,True,True,False
+Sicilia,Caltanissetta,Caltanissetta,Sant'Anna - Contrada Xiboli,30,3,1996,Fall,14.06692,37.50067,1,1084,False,False,True,True,False
+Sicilia,Caltanissetta,Caltanissetta,Caltanissetta - Contrada Stretto,2,3,1997,Fall,14.06291,37.49266,1,1085,False,False,False,False,True
+Sicilia,Caltanissetta,San Cataldo,San Cataldo,7,1,1977,Sliding,13.9893,37.4853,1,1086,False,False,False,True,False
+Sicilia,Caltanissetta,Sutera,Sutera - Monte San Paolino,8,12,1998,Fall,13.74037,37.52972,1,1087,False,False,False,False,True
+Sicilia,Enna,Enna,Enna - Via Pergusa,28,1,1992,Fall,14.28066,37.5616,1,1098,True,False,False,False,False
+Sicilia,Enna,Enna,Castello di Lombardia - Zona meridionale,29,2,1996,Fall,14.28678,37.56694,3,1095,True,True,True,True,False
+Sicilia,Enna,Enna,Carranciano  - All'altezza della SS n. 117 bis (Stretto Benesiti),27,12,1992,Fall,14.21735,37.50956,1,1099,False,False,False,False,True
+Sicilia,Enna,Enna,Enna Bassa - Lungo la SP n. 51 per il Castello di Lombardia,11,6,1998,Fall,14.28847,37.56402,1,1100,False,False,False,False,True
+Sicilia,Enna,Gagliano Castelferrato,Gagliano Castelferrato - Quartiere Sant'Antonino,4,3,1996,Fall,14.53777,37.7129,1,1101,True,False,True,True,False
+Sicilia,Enna,Gagliano Castelferrato,Gagliano Castelferrato - Via Roma,12,2,1996,Fall,14.53777,37.7129,2,1092,True,True,True,True,False
+Sicilia,Enna,Gagliano Castelferrato,Gagliano Castelferrato - Quartiere Sorrincello,27,12,1996,Fall,14.53777,37.7129,1,1102,True,False,False,False,False
+Sicilia,Enna,Leonforte,Leonforte - Lungo la SP n. 33 di circonvallazione,13,1,1996,Fall,14.39315,37.64402,4,1088,True,True,True,True,False
+Sicilia,Enna,Piazza Armerina,Piazza Armerina,17,1,1985,Sliding,14.36467,37.38519,3,1083,True,False,True,True,False
+Sicilia,Enna,Regalbuto,Regalbuto - A nord dell'abitato,1,3,1973,Flow,14.64152,37.66015,1,1104,True,True,True,True,False
+Sicilia,Catania,Aci Castello,Aci Castello,28,2,1986,Sliding,15.1477,37.55582,1,1106,True,False,True,False,False
+Sicilia,Catania,Bronte,Bronte,18,10,1969,Fall,14.83501,37.78672,1,1112,True,False,True,False,False
+Sicilia,Catania,Caltagirone,Caltagirone,4,12,1976,Flow,14.51314,37.2401,1,1113,False,False,False,True,False
+Sicilia,Catania,Caltagirone,Caltagirone,30,3,1973,Flow,14.51314,37.2401,1,1114,True,True,True,True,False
+Sicilia,Catania,Linguaglossa,Linguaglossa - Lungo la strada per Castrorao,3,1,1989,Fall,15.14428,37.84238,1,1115,True,False,False,False,False
+Sicilia,Catania,San Michele di Ganzaria,San Michele di Ganzaria,25,1,1985,Sliding,14.42946,37.28175,1,1116,False,True,True,True,False
+Sicilia,Ragusa,Modica,Modica,22,8,1951,Fall,14.76061,36.86333,1,1117,False,False,False,False,True
+Sicilia,Ragusa,Modica,Itria - Lungo la Circonvallazione,8,1,1997,Fall,14.76175,36.8686,1,1118,True,False,False,False,False
+Sicilia,Ragusa,Modica,Modica - Via Nazionale (Collina Monserrato),29,3,1995,Fall,14.76013,36.85507,1,1119,False,False,False,False,True
+Sicilia,Ragusa,Modica,Stramonte - Lungo la SP per Scicli vicino alla chiesetta della Fumara,14,6,1996,Fall,14.72779,36.84819,1,1120,False,False,False,False,True
+Sicilia,Ragusa,Ragusa,Ibla,31,10,1995,Fall,14.75051,36.92853,1,1122,True,False,False,False,False
+Sicilia,Ragusa,Ragusa,Ibla - Via Paternò Arezzo,28,2,1996,Fall,14.75051,36.92853,2,1121,True,False,True,True,False
+Sicilia,Ragusa,Scicli,Scicli - Presso la Chiesa di San Bartolomeo,7,6,2000,Fall,14.70701,36.79885,1,1123,False,False,False,False,True
+Sicilia,Ragusa,Scicli,SP Scicli-Modica nei pressi di Via Fiumelato (dopo la salita del Salto),3,12,1967,Fall,14.70961,36.79919,1,1124,True,False,False,False,False
+Sicilia,Ragusa,Vittoria,Vittoria,19,8,1989,Flow,14.53137,36.95329,1,1125,False,False,False,False,True
+Sicilia,Siracusa,Lentini,Lentini,16,4,1973,Fall,14.99884,37.28652,1,1127,False,False,False,True,False
+Sicilia,Siracusa,Sortino,Cava Grande - Riserva archeologica a 6 km da Sortino,11,4,1999,Fall,15.00314,37.14121,1,1128,False,False,False,False,True
+Sardegna,Sassari,Bortigiadas,Bortigiadas - Costone che sovrasta l'abitato,3,12,1998,Fall,9.03936,40.89266,1,1129,True,False,False,False,False
+Sardegna,Sassari,Castelsardo,Castelsardo - Via Paolo Dettori (lungomare Zirolia),19,1,2001,Fall,8.71646,40.91501,1,1130,False,True,True,True,False
+Sardegna,Sassari,Nule,Nule - All'altezza del caseificio,22,12,1972,Fall,9.18838,40.46249,1,1131,True,False,False,False,False
+Sardegna,Sassari,Loiri Porto San Paolo,Lu mulinu - Lungo la SP,18,3,1996,Fall,9.48073,40.83155,1,1132,True,True,True,True,False
+Sardegna,Nuoro,Aritzo,Aritzo - Piazza sottostante via Kennedy,25,9,1975,Sliding,9.19573,39.9582,1,1133,False,False,False,False,True
+Sardegna,Nuoro,Baunei,Baunei - Lungo la SS n. 125 Orientale Sarda per Dorgali,7,4,1991,Fall,9.64238,40.0508,1,1134,True,False,False,False,False
+Sardegna,Nuoro,Bolotana,Sos Cuccuros - Lungo la SP Bolotana-Campeda,17,3,1996,Fall,8.95687,40.34253,1,1135,True,True,True,True,False
+Sardegna,Nuoro,Gairo,Gairo - Lungo la SS n. 198 Gairo-Lanusei al km 69+501,3,2,1991,Fall,9.48246,39.85699,1,1136,True,False,False,False,False
+Sardegna,Nuoro,Jerzu,Jerzu - Zone periferiche della circonvallazione,13,10,1986,Debris flow,9.52159,39.78901,1,1137,True,False,False,False,False
+Sardegna,Nuoro,Nuoro,Monte Ortobene,20,8,1997,Fall,9.35629,40.31057,1,1138,False,False,False,False,True
+Sardegna,Nuoro,Urzulei,Passo di Silana - Lungo la SS n. 125 Orientale Sarda,24,3,1995,Fall,9.50939,40.15792,1,1139,False,False,False,False,True
+Sardegna,Cagliari,Arbus,Cuccureddu - Molifà (tra le due località),28,7,1991,Fall,8.60674,39.53435,1,1140,False,False,False,False,True
+Sardegna,Cagliari,Buggerru,Masua - Buggerru (tra le due località  lungo  la SP n. 85),18,6,2000,Fall,8.40071,39.37059,1,1142,False,False,False,False,True
+Sardegna,Cagliari,Gonnesa,Miniera San Giovanni - Gonnesa (tra le due località lungo la SS n. 126),11,3,2001,Fall,8.47302,39.27547,1,1146,False,False,False,True,False
+Sardegna,Cagliari,Iglesias,Monteponi - Lungo la SS n. 126,29,12,2000,Fall,8.52154,39.31003,2,1145,True,False,False,False,False
+Sardegna,Cagliari,Iglesias,Monteponi - Lungo la SS n. 126,24,3,1996,Fall,8.52154,39.31003,1,1149,False,True,True,True,False
+Sardegna,Cagliari,Iglesias,San Benedetto,26,11,1996,Flow,8.5292,39.36191,1,1150,True,True,False,True,False
+Sardegna,Cagliari,Iglesias,Iglesias - Lungo la SS per Fluminimaggiore all'altezza del bivio per San Benedetto,16,9,1999,Fall,8.52099,39.34678,1,1151,True,False,False,False,False
+Sardegna,Cagliari,Portoscuso,Portoscuso - Gonnesa (tra le due località lungo la strada Panoramica),3,10,2000,Fall,8.41364,39.22833,1,1152,True,False,False,False,False
+Sardegna,Cagliari,Portoscuso,Portoscuso - Lungo la strada per Gonnesa,7,9,2000,Fall,8.38731,39.2094,1,1153,False,False,False,False,True
+Sardegna,Oristano,Bauladu,Bauladu - Lungo la SS n. 131 al km 110,6,11,2000,Fall,8.67802,40.03658,1,1155,True,True,False,False,False
+Sardegna,Oristano,Cuglieri,Cuglieri - Rione Fidine,20,1,1977,Sliding,8.56975,40.18979,1,1156,False,False,True,True,False
+Sardegna,Oristano,Cuglieri,Cuglieri - Rione Fidine,24,2,1983,Sliding,8.56975,40.18979,1,1157,False,True,False,False,False
